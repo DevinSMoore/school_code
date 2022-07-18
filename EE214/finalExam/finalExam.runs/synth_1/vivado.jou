@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1.1 (64-bit)
+# SW Build 2960000 on Wed Aug  5 22:57:20 MDT 2020
+# IP Build 2956692 on Thu Aug  6 01:41:30 MDT 2020
+# Start of session at: Mon Dec 14 13:23:50 2020
+# Process ID: 5400
+# Current directory: C:/EE214_Projects/finalExam/finalExam.runs/synth_1
+# Command line: vivado.exe -log finalExam_20B.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source finalExam_20B.tcl
+# Log file: C:/EE214_Projects/finalExam/finalExam.runs/synth_1/finalExam_20B.vds
+# Journal file: C:/EE214_Projects/finalExam/finalExam.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source finalExam_20B.tcl -notrace

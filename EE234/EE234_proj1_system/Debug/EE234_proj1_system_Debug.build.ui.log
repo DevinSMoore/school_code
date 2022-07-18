@@ -1,0 +1,10 @@
+2021-07-15T20:02:27.120124900255-20:02:27 **** Build of configuration Debug for project EE234_proj1_system ****
+000-make all 
+000-Generating bif file for the system project
+000-generate_system_bif.bat 59960 D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm standalone_domain D:/Workspace/EE234_proj1_system/Debug/system.bif
+000-sdcard_gen --xpfm D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm --sys_config blackboard_bist --bif D:/Workspace/EE234_proj1_system/Debug/system.bif --bitstream D:/Workspace/EE234_proj1/_ide/bitstream/bist.bit --elf D:/Workspace/EE234_proj1/Debug/EE234_proj1.elf,ps7_cortexa9_0
+000-ELF does not exist: D:/Workspace/EE234_proj1/Debug/EE234_proj1.elf
+000/EE234_proj1_system/Debug0-1-1make: *** [makefile:39: package] Error 12-make: *** [makefile:39: package] Error 1
+00255-
+20:02:29 Build Finished (took 2s.226ms)
+

@@ -1,0 +1,14 @@
+0.7
+2020.1.1
+Aug  5 2020
+23:19:43
+C:/EE214_Projects/EE214_Proj6Req1/EE214_Proj6Req1.sim/sim_1/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,
+C:/EE214_Projects/EE214_Proj6Req1/EE214_Proj6Req1.srcs/sim_1/new/EE214_Proj6Chal1_test_fixture.v,1603182611,verilog,,,,EE214_Proj6Chal1_test_fixture,,,,,,,,
+C:/EE214_Projects/EE214_Proj6Req1/EE214_Proj6Req1.srcs/sim_1/new/EE214_Proj6Req1_test_fixture.v,1603177123,verilog,,,,EE214_Proj6Req1_test_fixture,,,,,,,,
+C:/EE214_Projects/EE214_Proj6Req1/EE214_Proj6Req1.srcs/sim_1/new/EE214_Proj6Req2_test_fixture.v,1603518903,verilog,,,,EE214_Proj6Req2_test_fixture,,,,,,,,
+C:/EE214_Projects/EE214_Proj6Req1/EE214_Proj6Req1.srcs/sim_1/new/EE214_Proj6Req3_test_fixture.v,1603515884,verilog,,,,EE214_Proj6Req3_test_fixture,,,,,,,,
+C:/EE214_Projects/EE214_Proj6Req1/EE214_Proj6Req1.srcs/sim_1/new/Glitch_Testbench.v,1603515529,verilog,,,,Glitch_Testbench,,,,,,,,
+C:/EE214_Projects/EE214_Proj6Req1/EE214_Proj6Req1.srcs/sources_1/new/EE214_Proj6Chal1.v,1603221800,verilog,,C:/EE214_Projects/EE214_Proj6Req1/EE214_Proj6Req1.srcs/sim_1/new/EE214_Proj6Chal1_test_fixture.v,,EE214_Proj6Chal1,,,,,,,,
+C:/EE214_Projects/EE214_Proj6Req1/EE214_Proj6Req1.srcs/sources_1/new/EE214_Proj6Req1.v,1603176508,verilog,,C:/EE214_Projects/EE214_Proj6Req1/EE214_Proj6Req1.srcs/sim_1/new/EE214_Proj6Req3_test_fixture.v,,EE214_Proj6Req1,,,,,,,,
+C:/EE214_Projects/EE214_Proj6Req1/EE214_Proj6Req1.srcs/sources_1/new/EE214_Proj6Req2.v,1603520287,verilog,,C:/EE214_Projects/EE214_Proj6Req1/EE214_Proj6Req1.srcs/sim_1/new/EE214_Proj6Req2_test_fixture.v,,EE214_Proj6Req2,,,,,,,,
+C:/EE214_Projects/EE214_Proj6Req1/EE214_Proj6Req1.srcs/sources_1/new/EE214_Proj6Req3.v,1603520400,verilog,,C:/EE214_Projects/EE214_Proj6Req1/EE214_Proj6Req1.srcs/sim_1/new/EE214_Proj6Req3_test_fixture.v,,EE214_Proj6Req3,,,,,,,,

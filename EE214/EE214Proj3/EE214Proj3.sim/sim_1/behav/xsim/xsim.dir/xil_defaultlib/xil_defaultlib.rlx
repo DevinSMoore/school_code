@@ -1,0 +1,12 @@
+0.7
+2020.1.1
+Aug  5 2020
+23:19:43
+C:/EE214_Projects/EE214Proj3/EE214Proj3.sim/sim_1/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,
+C:/EE214_Projects/EE214Proj3/EE214Proj3.srcs/sim_1/new/EE214_Proj3Chal1_Test_Fixture.v,1600986656,verilog,,,,EE214_Proj3Cal1_test_fixture,,,,,,,,
+C:/EE214_Projects/EE214Proj3/EE214Proj3.srcs/sim_1/new/EE214_Proj3Chal2_Test_Fixture.v,1600987340,verilog,,,,EE214_Proj3Chal2_test_fixture,,,,,,,,
+C:/EE214_Projects/EE214Proj3/EE214Proj3.srcs/sim_1/new/EE214_Proj3Req3_test_fixture.v,1600830820,verilog,,,,EE214_Proj3Req3_test_fixture,,,,,,,,
+C:/EE214_Projects/EE214Proj3/EE214Proj3.srcs/sources_1/new/EE214_Proj3Chal1.v,1600834236,verilog,,C:/EE214_Projects/EE214Proj3/EE214Proj3.srcs/sim_1/new/EE214_Proj3Chal1_Test_Fixture.v,,EE214_Proj3Chal1,,,,,,,,
+C:/EE214_Projects/EE214Proj3/EE214Proj3.srcs/sources_1/new/EE214_Proj3Chal2.v,1600835274,verilog,,C:/EE214_Projects/EE214Proj3/EE214Proj3.srcs/sim_1/new/EE214_Proj3Chal2_Test_Fixture.v,,EE214_Proj3Chal2,,,,,,,,
+C:/EE214_Projects/EE214Proj3/EE214Proj3.srcs/sources_1/new/EE214_Proj3Req2.v,1600927240,verilog,,C:/EE214_Projects/EE214Proj3/EE214Proj3.srcs/sim_1/new/EE214_Proj3Req2_test_fixture.v,,EE214_Proj3Req2,,,,,,,,
+C:/EE214_Projects/EE214Proj3/EE214Proj3.srcs/sources_1/new/EE214_Proj3Req3.v,1600830547,verilog,,C:/EE214_Projects/EE214Proj3/EE214Proj3.srcs/sim_1/new/EE214_Proj3Req3_test_fixture.v,,EE214_Proj3Req3,,,,,,,,

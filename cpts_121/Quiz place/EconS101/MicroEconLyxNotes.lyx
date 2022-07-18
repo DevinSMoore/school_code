@@ -1,0 +1,1112 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+MicroEcon101 Notes
+\end_layout
+
+\begin_layout Title
+WSU Fall 2020
+\end_layout
+
+\begin_layout Author
+Devin Moore
+\end_layout
+
+\begin_layout Section*
+Section 1: Basic Economic Concepts
+\end_layout
+
+\begin_layout Subsection*
+1.1 - First Principles
+\end_layout
+
+\begin_layout Subsubsection*
+Five Principles of Economic Interaction
+\end_layout
+
+\begin_layout Subsubsection*
+Four Principles of Individual Choice
+\end_layout
+
+\begin_layout Enumerate
+
+\color blue
+People must make choices because 
+\series bold
+resources
+\series default
+ are scarce.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+You only have so much time, money, or things to do.
+ As a consequence you must choose where to spend it (cost/benefits)
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\color blue
+The opportunity cost of an item - what you must give up to get it - is its
+ true cost.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Two classes you want to take (same time/workload/cost), the opportunity
+ cost of taking class A is whatever you would've learned from class B.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\color blue
+\begin_inset Quotes eld
+\end_inset
+
+How Much
+\begin_inset Quotes erd
+\end_inset
+
+ Decisions require mankind trade-offs at the margin.
+ compare the costs and benefits of doing a little more of something vs.
+ a little less.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Do I spend 1 more hour on micro, or do I spend an hour studying CS?
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\color blue
+People usually respond to incentives, exploiting opportunities to make themselve
+s better off.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+People will take discounted item of a non-disc.
+ of the same (or similar) quality.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\color blue
+There are gains from trade.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+If I specialize in Engineering & someone else specializes in Farming.
+ The opportunity cost for me to farm my own food is greater than if I were
+ to produce the thing I specialize in, and then tradethat for the food I
+ need.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\color blue
+Markets move toward equilibrium because people respond to incentives.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+New line at supermarket opens up during rush.
+ People will then flood to that spot because they can benefit from that.
+ Once the new line fills up there is no reason to change what line you're
+ in.
+ Therefore this system is in equilibrium.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\color blue
+Resources should be used as efficiently as possible to achieve society's
+ goals.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+If you have an overfull small classroom, but a nearly empty large classroom
+ you are not being efficient with your resources.
+ You should swap the class locations, this would be an efficient allocation
+ of resources.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\color blue
+Because people usually exploit gains from trade, markets usually lead to
+ efficiency.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The invisible hand will correct any inefficiencies automatically.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\color blue
+When markets don’t achieve efficiency, government intervention can improve
+ society’s welfare.
+\end_layout
+
+\begin_layout Enumerate
+
+\color blue
+One person’s spending is another person’s income.
+\end_layout
+
+\begin_layout Enumerate
+
+\color blue
+Overall spending sometimes gets out of line with the economy’s productive
+ capacity.
+\end_layout
+
+\begin_layout Enumerate
+
+\color blue
+Government policies can change spending.
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Economics 
+\series default
+is the study of the choices people make facing scarcity.
+ It is a social science that primarily examines the 
+\series bold
+economy
+\series default
+.
+\end_layout
+
+\begin_layout Enumerate
+The 
+\series bold
+Economy 
+\series default
+is the system of people that produce, distribute, and purchase goods and
+ services.
+\end_layout
+
+\begin_layout Enumerate
+a 
+\series bold
+Command Economy
+\series default
+ is one in which the government decides what is produced, and distributed
+ in the economy.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+China was a command economy up to the 1970's (1978 apx).
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+In a 
+\series bold
+Market Economy
+\series default
+ the decisions on what is produced, and distributed is made by the people
+ that are participating in the economy.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Good ol' US of A is a market economy.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+The 
+\series bold
+Invisible Hand 
+\series default
+is the idea that the collective self interest of the people will inevitable
+ cause change in society.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+This can be for good or bad.
+ Society pressuring companies to improve diversity or equality.
+\end_layout
+
+\begin_layout Enumerate
+When the IH harms society we call it a 
+\series bold
+Market Failure
+\series default
+.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Microeconomics 
+\series default
+is the study of individual choices, and how those choices interact with
+ each other.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Individual people going about their day will, as an aggregate, cause change
+ and economists what to understand this.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Macroeconomics
+\series default
+ is the study of the general trend of the economy.
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Market Failure 
+\series default
+is when the collective self interest of the people causes harm to society.
+ (makes some people worse off)
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The market outcome is inefficient in this case.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Ex.
+ is a company producing T.V.'s dumping waste into a river which would harm
+ people, and the environment downstream.
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Recessions
+\series default
+ are economic dips when output & employment decrease.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Covid forcing people home which led to layoffs as spending in the economy
+ was massively down.
+ Stimuli were introduced to increase spending, but this was mostly for very
+ large organizations with some political power.
+ (or in the proximity of it).
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Economic Growth
+\series default
+ is the increasing ability of an economy to produce goods, and services
+ as it grows.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+This is a positive feedback cycle.
+ An example of this is Amazon not making huge profits at one point because
+ it was reinvesting all of that (would be) extra income into expansion,
+ research & development.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Sustainable Long-run Economic Growth
+\series default
+ is the balancing of the burden of economic growth by greater investment
+ into environmental protections and living standards.
+\end_layout
+
+\begin_layout Subsection*
+1.2 - Models and the Production Possibility Frontier
+\end_layout
+
+\begin_layout Subsubsection*
+Definitions
+\end_layout
+
+\begin_layout Enumerate
+A 
+\series bold
+Resource
+\series default
+ is anything that can be used to produce a good or service.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The four common resources are:
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+
+\series bold
+Land
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Labor
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Physical Capital
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Consists of man-made objects that a company uses to produce goods.
+\end_layout
+
+\begin_layout Enumerate
+Examples of this are the tools, buildings, and machinery that a company
+ owns.
+ (basically 
+\series bold
+Factors of Production
+\series default
+)
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Human Capital
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Includes resources that humans can provide
+\end_layout
+
+\begin_layout Enumerate
+Education, experience, or unique skills – that contribute to the production
+ process.
+ 
+\end_layout
+
+\end_deeper
+\end_deeper
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Scarcity
+\series default
+ is when there is demand for some resource but for whatever reason the economy
+ is unable to provide it.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Can consider also that there is a scarcity of choice in everyone's lives.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Opportunity Cost
+\series default
+ is the real cost of an item: what you must give up in order to get it.
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Trade-offs 
+\series default
+are a comparison of costs and benefits of doing something.
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Marginal Decisions 
+\series default
+are decisions about the benefits of doing a little more Vs.
+ a little less of something.
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Marginal Analysis
+\series default
+ is the study of marginal decisions.
+\end_layout
+
+\begin_layout Enumerate
+An 
+\series bold
+Incentive
+\series default
+ is anything that rewards a change in behavior.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Lower prices an item will incentivise people to choose that item over other
+ items of similar quality.
+ This is a market out of equilibrium.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Trade
+\series default
+ the practice of exchanging your personal goods, or services for someone
+ elses.
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Gains from Trade
+\series default
+: by dividing tasks and trading, two people can each get more of what they
+ want than they could get by being self-sufficient.
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Specialization
+\series default
+ is the situation in which each person specializes in the task that they
+ are good at performing.
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Equilibrium 
+\series default
+is an economic situation in which no individual would be better off doing
+ something different.
+\end_layout
+
+\begin_layout Enumerate
+An 
+\series bold
+Efficient Economy
+\series default
+ is one in which it takes all opportunities to make some people better off
+ without making other people worse off.
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Equity 
+\series default
+is fairness; everyone gets their fair share.
+ 
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Production Possibility Frontier
+\series default
+ a model that illustrates the trade-offs facing an economy that produces
+ only two goods.
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+This model helps us understand the opportunity costs of production.
+ Or help our understanding of trade-offs.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Factors of Production
+\series default
+ are the resources used to produce goods and services.
+ Labor and capital are examples of factors.
+\end_layout
+
+\begin_layout Subsection*
+1.3 - Comparative Advantage and Trade
+\end_layout
+
+\begin_layout Subsubsection*
+Definitions
+\end_layout
+
+\begin_layout Enumerate
+A 
+\series bold
+Comparative Advantage 
+\series default
+is the advantage gained if the opportunity cost of producing the good or
+ service is lower for that individual or country than for other producers.
+\end_layout
+
+\begin_layout Enumerate
+An 
+\series bold
+Absolute Advantage 
+\series default
+is the advantage gained if the individual or country can do it better than
+ others.
+ A country with an absolute advantage can produce more output per worker
+ than other countries.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+
+\emph on
+comparative, not absolute, advantage is the basis for mutual gain.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+It doesn't matter if it takes more resources for one country to produce
+ something than another, only that the opportunity cost of producing a particula
+r G&S is lower than the other country.
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Subsection*
+1.4 - The Circular-Flow Diagram
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename C:/Users/rache/OneDrive/Pictures/RandoSchoolPics/CircularFlowDiagram.png
+	scale 70
+	BoundingBox 100bp 0bp 1500bp 587bp
+	clip
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+A 
+\series bold
+Circular Flow Diagram
+\series default
+ (shown above) represents transactions in an economy as two circular arrows
+ showing the flow of money, goods, and services.
+\end_layout
+
+\begin_layout Enumerate
+There are two kinds of inhabitants in an economy:
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+
+\series bold
+Households
+\series default
+ are people or groups of people who share their income
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Firms
+\series default
+ are organizations that produce goods or services.
+\end_layout
+
+\begin_layout Enumerate
+NOTE: 
+\series bold
+1.
+
+\series default
+ differences between firms, and HH is not clear cut, i.e.
+ family owned business.
+ 
+\series bold
+2.
+
+\series default
+ often firms are selling to other firms.
+ i.e.
+ a steel producer mostly will sell to firms.
+ 
+\series bold
+3.
+
+\series default
+ The Gov can take money out of the flow via taxes, and put money in via
+ spending policy.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+A 
+\series bold
+Factor Market
+\series default
+ trades in production factors which are the resources required to produce
+ G&S.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+i.e.
+ the labor market.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Bartering
+\series default
+ is the direct exchange of G&S without the use of money.
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Positive
+\series default
+ 
+\series bold
+Economics 
+\series default
+involves situations in which there is a definite answer about what is the
+ right Vs.
+ wrong choice.
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Normative Economics
+\series default
+ involves the way the economy 
+\begin_inset Quotes eld
+\end_inset
+
+should
+\begin_inset Quotes erd
+\end_inset
+
+ work.
+ This is the area of economics that is more human, and messy.
+\end_layout
+
+\begin_layout Section*
+Section 2: Demand, Supply, and Equilibrium
+\end_layout
+
+\begin_layout Subsection*
+2.5/6 - Demand/Supply
+\end_layout
+
+\begin_layout Enumerate
+A 
+\series bold
+Supply and Demand Model
+\series default
+ models the behavior of a 
+\series bold
+competitive
+\series default
+ 
+\series bold
+market
+\series default
+.
+\end_layout
+
+\begin_layout Enumerate
+A 
+\series bold
+Competitive Market 
+\series default
+is one in with many buyers and sellers of the same goods & services.
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+No individual producer can influence the market by selling their good.
+\end_layout
+
+\begin_layout Enumerate
+In a non-competitive market (like aluminum production) a producer can wildly
+ impact their profits through a shift in their supply.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+A 
+\series bold
+Demand/Supply Schedule 
+\series default
+is a table that shows the demand or supply of a good or service as the price
+ changes
+\backslash
+
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Demand or Supply Quantity
+\series default
+ is the actual amount of a g/s that people are willing to buy (in the case
+ of demand), or producers are willing to supply at a given price point.
+\end_layout
+
+\begin_layout Enumerate
+The 
+\series bold
+Demand/Supply Curve 
+\series default
+is a visual of how the demand/supply of a good changes as the price of that
+ good changes.(this is a line, and can be described mathematically)
+\end_layout
+
+\begin_layout Enumerate
+The 
+\series bold
+Law of Demand
+\series default
+ is the principle that (all else equal) the higher the price of something
+ the lower the quantity demand for that G/S will be.
+\end_layout
+
+\begin_layout Enumerate
+A 
+\series bold
+Shift of the Demand/Supply Curve
+\series default
+ represents a change in the quantity demanded, or supplied at a given price
+ point.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+An increase in demand, or supply at the same price point will shift the
+ graph to the right.
+ A decrease results in a shift to the left.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Movement along the Demand/Supply Curve
+\series default
+ represents a change in demand/supply driving a change in price.
+ the reverse is true as well.
+\end_layout
+
+\begin_layout Enumerate
+A 
+\series bold
+Substitute
+\series default
+ refers to pairs of goods for which the rise in price of one drives a demand
+ for the other.
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Compliments 
+\series default
+are pairs of goods for which an increase in the price of one leads to a
+ decrease in the demand of the other.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+phones & apps.
+ coffee & egg Muffins.
+ Gas & Gas Guzzlers
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+A 
+\series bold
+Normal Good's 
+\series default
+demand will increase with an increase in income
+\end_layout
+
+\begin_layout Enumerate
+An 
+\series bold
+Inferior Good's 
+\series default
+demand will decrease with an increase in income.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+for both normal, and inferior goods the opposite cases are true too.
+ income down => normal demand down inferior demand up
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+An 
+\series bold
+Individual Demand/Supply Curve 
+\series default
+shows the Demand/Supply curve for an individual person or firm.
+\end_layout
+
+\begin_layout Enumerate
+The 
+\series bold
+Market Demand/Supply Curve
+\series default
+ is the 
+\begin_inset Quotes eld
+\end_inset
+
+horizontal
+\begin_inset Quotes erd
+\end_inset
+
+ sum of the demand/supply quantities.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+if the quantity for bill is 30 at a given price, and 20 for Jill at same
+ price, market demand for item at that price is 50.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Input 
+\series default
+is any good or service that is used to produce another good or service.
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Equilibrium Price 
+\series default
+is the price at which both demand and supply match.
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Equilibrium Quantity
+\series default
+ is the number of goods sold at equilibrium price.
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Market Price
+\series default
+ is basically the price that a market will settle on if it is a well-established
+ and ongoing.
+ (both sellers and produces have been in the market for a long time).
+\end_layout
+
+\begin_layout Enumerate
+A 
+\series bold
+Surplus 
+\series default
+is when the quantity supplied is greater than the quantity demanded.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+This can occur when the price is above equilibrium price.
+\end_layout
+
+\end_deeper
+\begin_layout Subsection*
+Module 7: Changes in Equilibrium
+\end_layout
+
+\begin_layout Standard
+Changes in equilibrium price& quantity are the result of shifts in both
+ the supply and demand curves.
+ If demand increases both equilibrium prices and quantity increase, but
+ if it decreases both prices, and quantity decrease.
+ If supply increase equilibrium quantity 
+\series bold
+increases 
+\series default
+but equilibrium prices will 
+\series bold
+decrease
+\series default
+.
+ If supply decreases quantity decreases but prices increase.
+\end_layout
+
+\begin_layout Subsubsection*
+The 5 key elements of a Supply and Demand model:
+\end_layout
+
+\begin_layout Enumerate
+The 
+\series bold
+Demand
+\series default
+ 
+\series bold
+Curve
+\end_layout
+
+\begin_layout Enumerate
+The 
+\series bold
+Supply Curve
+\end_layout
+
+\begin_layout Enumerate
+The set of factors that will shift a supply, or a demand curve.
+\end_layout
+
+\begin_layout Enumerate
+Market Equilibrium: equilibrium price, and quantity
+\end_layout
+
+\begin_layout Enumerate
+How the market equilibrium changes as a result in the shift of supply and
+ demand curves.
+\end_layout
+
+\begin_layout Section*
+Extra Resources
+\end_layout
+
+\end_body
+\end_document

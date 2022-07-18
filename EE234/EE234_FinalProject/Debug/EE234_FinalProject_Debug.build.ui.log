@@ -1,0 +1,50 @@
+2021-07-15T20:02:34.764940800255-20:02:34 **** Build of configuration Debug for project EE234_FinalProject ****
+000-make all 
+000-make --no-print-directory pre-build
+000-a9-linaro-pre-build-step
+000-' '
+000-make --no-print-directory main-build
+000-'Building file: ../src/interruptModule.c'
+000-'Invoking: ARM v7 gcc compiler'
+000-arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/interruptModule.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -ID:/Workspace/blackboard_bist/export/blackboard_bist/sw/blackboard_bist/standalone_domain/bspinclude/include -MMD -MP -MF"src/interruptModule.d" -MT"src/interruptModule.o" -o "src/interruptModule.o" "../src/interruptModule.c"
+000-'Finished building: ../src/interruptModule.c'
+000-' '
+000-'Building file: ../src/main.c'
+000-'Invoking: ARM v7 gcc compiler'
+000-arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -ID:/Workspace/blackboard_bist/export/blackboard_bist/sw/blackboard_bist/standalone_domain/bspinclude/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+000-'Finished building: ../src/main.c'
+000-' '
+000-'Building file: ../src/req1.c'
+000-'Invoking: ARM v7 gcc compiler'
+000-arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/req1.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -ID:/Workspace/blackboard_bist/export/blackboard_bist/sw/blackboard_bist/standalone_domain/bspinclude/include -MMD -MP -MF"src/req1.d" -MT"src/req1.o" -o "src/req1.o" "../src/req1.c"
+000-'Finished building: ../src/req1.c'
+000-' '
+000-'Building file: ../src/req2.c'
+000-'Invoking: ARM v7 gcc compiler'
+000-arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/req2.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -ID:/Workspace/blackboard_bist/export/blackboard_bist/sw/blackboard_bist/standalone_domain/bspinclude/include -MMD -MP -MF"src/req2.d" -MT"src/req2.o" -o "src/req2.o" "../src/req2.c"
+000-'Finished building: ../src/req2.c'
+000-' '
+000-'Building file: ../src/req3.c'
+000-'Invoking: ARM v7 gcc compiler'
+000-arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/req3.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -ID:/Workspace/blackboard_bist/export/blackboard_bist/sw/blackboard_bist/standalone_domain/bspinclude/include -MMD -MP -MF"src/req3.d" -MT"src/req3.o" -o "src/req3.o" "../src/req3.c"
+000-'Finished building: ../src/req3.c'
+000-' '
+000-'Building file: ../src/xil_exception.c'
+000-'Invoking: ARM v7 gcc compiler'
+000-arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/xil_exception.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -ID:/Workspace/blackboard_bist/export/blackboard_bist/sw/blackboard_bist/standalone_domain/bspinclude/include -MMD -MP -MF"src/xil_exception.d" -MT"src/xil_exception.o" -o "src/xil_exception.o" "../src/xil_exception.c"
+000-'Finished building: ../src/xil_exception.c'
+000-' '
+000-'Building target: EE234_FinalProject.elf'
+000-'Invoking: ARM v7 gcc linker'
+000-arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -LD:/Workspace/blackboard_bist/export/blackboard_bist/sw/blackboard_bist/standalone_domain/bsplib/lib -o "EE234_FinalProject.elf"  ./src/UARTmodule.o ./src/interruptModule.o ./src/main.o ./src/req1.o ./src/req2.o ./src/req3.o ./src/xil_exception.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+000-'Finished building target: EE234_FinalProject.elf'
+000-' '
+000-'Invoking: ARM v7 Print Size'
+000-arm-none-eabi-size EE234_FinalProject.elf  |tee "EE234_FinalProject.elf.size"
+000-   text	   data	    bss	    dec	    hex	filename
+000-  25880	   1144	  22584	  49608	   c1c8	EE234_FinalProject.elf
+000-'Finished building: EE234_FinalProject.elf.size'
+000-' '
+00255-
+20:02:36 Build Finished (took 1s.814ms)
+

@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1.1 (64-bit)
+# SW Build 2960000 on Wed Aug  5 22:57:20 MDT 2020
+# IP Build 2956692 on Thu Aug  6 01:41:30 MDT 2020
+# Start of session at: Thu Sep  3 15:10:45 2020
+# Process ID: 720
+# Current directory: C:/EE214_Projects/requirement_2/requirement_2.runs/synth_1
+# Command line: vivado.exe -log led_sw.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source led_sw.tcl
+# Log file: C:/EE214_Projects/requirement_2/requirement_2.runs/synth_1/led_sw.vds
+# Journal file: C:/EE214_Projects/requirement_2/requirement_2.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source led_sw.tcl -notrace

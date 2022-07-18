@@ -1,0 +1,9 @@
+Person 1 Recommended Daily Calorie Intake: 3256.98
+
+Person 2 Recommended Daily Calorie Intake: 3289.58
+
+Person 3 Recommended Daily Calorie Intake: 3283.02
+
+Person 4 Recommended Daily Calorie Intake: 1885.70
+
+Person 5 Recommended Daily Calorie Intake: 3215.52

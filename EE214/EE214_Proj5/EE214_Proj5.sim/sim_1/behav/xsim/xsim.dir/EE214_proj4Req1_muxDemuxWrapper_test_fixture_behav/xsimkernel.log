@@ -1,0 +1,7 @@
+Running: xsim.dir/EE214_proj4Req1_muxDemuxWrapper_test_fixture_behav/xsimk.exe -simmode gui -wdb EE214_proj4Req1_muxDemuxWrapper_test_fixture_behav.wdb -simrunnum 0 -socket 57791
+Design successfully loaded
+Design Loading Memory Usage: 5872 KB (Peak: 5872 KB)
+Design Loading CPU Usage: 0 ms
+Simulation completed
+Simulation Memory Usage: 6600 KB (Peak: 6600 KB)
+Simulation CPU Usage: 281 ms

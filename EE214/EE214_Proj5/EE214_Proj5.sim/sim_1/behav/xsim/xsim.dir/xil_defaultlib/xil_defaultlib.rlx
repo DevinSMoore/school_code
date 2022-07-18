@@ -1,0 +1,16 @@
+0.7
+2020.1.1
+Aug  5 2020
+23:19:43
+C:/EE214_Projects/EE214_Proj4/verilogCode_Proj4/Requirement 4/EE214_Proj4Req4.v,1602310051,verilog,,C:/EE214_Projects/EE214_Proj4/verilogCode_Proj4/Requirement 4/EE214_Proj4Req4_test_fixture.v,,EE214_Proj4Req4,,,,,,,,
+C:/EE214_Projects/EE214_Proj4/verilogCode_Proj4/Requirement 4/EE214_Proj4Req4_test_fixture.v,1602309744,verilog,,,,EE214_Proj4Req4_test_fixture,,,,,,,,
+C:/EE214_Projects/EE214_Proj5/EE214_Proj5.sim/sim_1/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,
+C:/EE214_Projects/EE214_Proj5/EE214_Proj5.srcs/sim_1/new/EE214_Proj5Chal1_test_fixture.v,1602788373,verilog,,,,EE214_Proj5Chal1_test_fixture,,,,,,,,
+C:/EE214_Projects/EE214_Proj5/EE214_Proj5.srcs/sim_1/new/EE214_Proj5Req2_test_fixture.v,1602788808,verilog,,,,EE214_Proj5Req2_test_fixture,,,,,,,,
+C:/EE214_Projects/EE214_Proj5/EE214_Proj5.srcs/sim_1/new/EE214_Proj5Req3_test_fixture.v,1602751204,verilog,,,,EE214_Proj5Req3_test_fixture,,,,,,,,
+C:/EE214_Projects/EE214_Proj5/EE214_Proj5.srcs/sim_1/new/EE214_proj5Req1_muxDemuxWrapper_test_fixture.v,1602814994,verilog,,,,EE214_proj4Req1_muxDemuxWrapper_test_fixture,,,,,,,,
+C:/EE214_Projects/EE214_Proj5/EE214_Proj5.srcs/sim_1/new/mux_4_1_test_fixture.v,1602731843,verilog,,,,mux_4_1_test_fixture,,,,,,,,
+C:/EE214_Projects/EE214_Proj5/EE214_Proj5.srcs/sources_1/new/EE214_Proj5Chal1.v,1602788647,verilog,,C:/EE214_Projects/EE214_Proj5/EE214_Proj5.srcs/sources_1/new/EE214_Proj5Req3.v,,EE214_Proj5Chal1;binaryDecoderToSevSeg;bus_4_mux_2_1;clock,,,,,,,,
+C:/EE214_Projects/EE214_Proj5/EE214_Proj5.srcs/sources_1/new/EE214_Proj5Req2.v,1602789025,verilog,,C:/EE214_Projects/EE214_Proj5/EE214_Proj5.srcs/sim_1/new/EE214_Proj5Req2_test_fixture.v,,EE214_Proj5Req2,,,,,,,,
+C:/EE214_Projects/EE214_Proj5/EE214_Proj5.srcs/sources_1/new/EE214_Proj5Req3.v,1602814398,verilog,,C:/EE214_Projects/EE214_Proj5/EE214_Proj5.srcs/sim_1/new/EE214_Proj5Req3_test_fixture.v,,EE214_Proj5Req3,,,,,,,,
+C:/EE214_Projects/EE214_Proj5/EE214_Proj5.srcs/sources_1/new/EE214_proj5Req1_muxDemuxWrapper.v,1602814927,verilog,,C:/EE214_Projects/EE214_Proj5/EE214_Proj5.srcs/sim_1/new/EE214_proj5Req1_muxDemuxWrapper_test_fixture.v,,EE214_proj5Req1_muxDemuxWrapper;counter;demux_2_4;mux_4_1,,,,,,,,

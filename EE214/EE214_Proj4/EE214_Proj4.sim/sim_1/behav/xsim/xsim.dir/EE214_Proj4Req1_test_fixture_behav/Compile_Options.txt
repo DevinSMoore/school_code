@@ -1,0 +1,1 @@
+-wto "d7ebea06993d414db6f62b7bb1916f7f" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "unisims_ver" -L "unimacro_ver" -L "secureip" --snapshot "EE214_Proj4Req1_test_fixture_behav" "xil_defaultlib.EE214_Proj4Req1_test_fixture" "xil_defaultlib.glbl" -log "elaborate.log" 

@@ -1,0 +1,86 @@
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2020.1.1 (win64) Build 2960000 Wed Aug  5 22:57:20 MDT 2020
+| Date         : Fri Nov  6 21:01:51 2020
+| Host         : LAPTOP-SKTNOLCK running 64-bit major release  (build 9200)
+| Command      : report_control_sets -verbose -file EE214_Proj8Chal1_control_sets_placed.rpt
+| Design       : EE214_Proj8Chal1
+| Device       : xc7z007s
+---------------------------------------------------------------------------------------------
+
+Control Set Information
+
+Table of Contents
+-----------------
+1. Summary
+2. Histogram
+3. Flip-Flop Distribution
+4. Detailed Control Set Information
+
+1. Summary
+----------
+
++----------------------------------------------------------+-------+
+|                          Status                          | Count |
++----------------------------------------------------------+-------+
+| Total control sets                                       |     8 |
+|    Minimum number of control sets                        |     8 |
+|    Addition due to synthesis replication                 |     0 |
+|    Addition due to physical synthesis replication        |     0 |
+| Unused register locations in slices containing registers |    35 |
++----------------------------------------------------------+-------+
+* Control sets can be merged at opt_design using control_set_merge or merge_equivalent_drivers
+** Run report_qor_suggestions for automated merging and remapping suggestions
+
+
+2. Histogram
+------------
+
++--------------------+-------+
+|       Fanout       | Count |
++--------------------+-------+
+| Total control sets |     8 |
+| >= 0 to < 4        |     2 |
+| >= 4 to < 6        |     4 |
+| >= 6 to < 8        |     0 |
+| >= 8 to < 10       |     0 |
+| >= 10 to < 12      |     0 |
+| >= 12 to < 14      |     0 |
+| >= 14 to < 16      |     0 |
+| >= 16              |     2 |
++--------------------+-------+
+* Control sets can be remapped at either synth_design or opt_design
+
+
+3. Flip-Flop Distribution
+-------------------------
+
++--------------+-----------------------+------------------------+-----------------+--------------+
+| Clock Enable | Synchronous Set/Reset | Asynchronous Set/Reset | Total Registers | Total Slices |
++--------------+-----------------------+------------------------+-----------------+--------------+
+| No           | No                    | No                     |               0 |            0 |
+| No           | No                    | Yes                    |              37 |           12 |
+| No           | Yes                   | No                     |               0 |            0 |
+| Yes          | No                    | No                     |               0 |            0 |
+| Yes          | No                    | Yes                    |              32 |           11 |
+| Yes          | Yes                   | No                     |               0 |            0 |
++--------------+-----------------------+------------------------+-----------------+--------------+
+
+
+4. Detailed Control Set Information
+-----------------------------------
+
++----------------------------+---------------------------------+------------------+------------------+----------------+--------------+
+|        Clock Signal        |          Enable Signal          | Set/Reset Signal | Slice Load Count | Bel Load Count | Bels / Slice |
++----------------------------+---------------------------------+------------------+------------------+----------------+--------------+
+|  clk/clk_1kHz/clk          |                                 | i_rst_IBUF       |                1 |              1 |         1.00 |
+|  dsplCtrl_0/clkDiv1kHz/CLK |                                 | i_rst_IBUF       |                1 |              2 |         2.00 |
+|  bcdClk_0/CLK              | bcdClk_1/o_divClk[3]_i_1__0_n_4 | i_rst_IBUF       |                2 |              4 |         2.00 |
+|  bcdClk_1/CLK              | bcdClk_2/o_divClk[3]_i_1__1_n_4 | i_rst_IBUF       |                1 |              4 |         4.00 |
+|  bcdClk_2/CLK              | bcdClk_3/o_divClk[3]_i_1__2_n_4 | i_rst_IBUF       |                2 |              4 |         2.00 |
+|  clk/o_led_OBUF[0]         | bcdClk_0/o_divClk[3]_i_1_n_4    | i_rst_IBUF       |                2 |              4 |         2.00 |
+|  clk/clk_1kHz/clk          | i_ce_IBUF                       | i_rst_IBUF       |                4 |             16 |         4.00 |
+|  i_clk_IBUF_BUFG           |                                 | i_rst_IBUF       |               10 |             34 |         3.40 |
++----------------------------+---------------------------------+------------------+------------------+----------------+--------------+
+
+

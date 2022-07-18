@@ -1,0 +1,213 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Consequence of Taxes: The Whiskey Rebellion
+\end_layout
+
+\begin_layout Author
+Devin Moore
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\series bold
+Instructor: 
+\series default
+Professor Joseph Navelski
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\series bold
+Assignment: 
+\series default
+Writing Assignment 2
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\series bold
+Class:
+\series default
+ EconS101 Section 2
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing double
+The revolutionary war resulted in a hugely positive outcome for America,
+ but it didn’t come without its costs.
+ In this case we’re concerned the most with the financial debt that the
+ federal government, and the states had incurred fighting for independence.
+ Approximately 54 million dollars was owed by the government, and 25 million
+ by the states.(The Whiskey Rebellion, HistoricalSpotlight).
+ In an effort to increase America's ability to borrow money they sought
+ to eliminate this old debt.
+ The United States Secretary of Finance at the time was Alexander Hamilton,
+ and his idea was to consolidate both debts in order for the federal government
+ to pay it down through the issuance of new bonds.
+ To pay for the interest from this newly incurred debt he urged congress
+ to enact tariffs, and more importantly an excise tax on whiskey.
+ I do not believe that the tax was justified if we are concerned at all
+ with the benefits principle.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing double
+The general idea behind the benefits principle is that if you’re in some
+ way receiving a benefit from a government program the burden of paying
+ the tax that supports that program should fall on you.
+ So ideally the people that would benefit from this the most would be the
+ farmers themselves If we examine the motivations behind the tax it shows
+ us that the government and people with wealth benefited by far the most.
+ The government had recently taken on a new debt to pay off old debt and
+ this new debt needed to have it’s interest paid for so that they could
+ continue to spend while having a large deficit.
+ Before the plan to release new bonds for purchase speculators and some
+ people in the government went around buying up the bonds of people that
+ weren’t in the know, and therefore they stood to make a massive profit.
+ To me this shows that the principles of the benefits of tax were not adhered
+ to when the tax was being drawn up, and the real motivation of the tax
+ was to uphold Hamilton's economic vision of the united states.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing double
+Hamilton also was not concerned with the ability to pay the tax when he
+ was drawing it up.
+ The burden of paying the tax fell disproportionately on smaller distilleries
+ versus larger ones as a function of how much volume they are able to produce
+ and sell.
+ Smaller distilleries could not sell enough whiskey to pay the flat fee
+ (which cost on average 6 cents a gallon), and were forced to pay the per
+ gallon amount of 9 cents.
+ This means that this tax had neither horizontal, nor vertical equity.
+ Distilleries that produced the same good, but at different volumes were
+ being treated differently (horizontal equity).
+ Larger distilleries had much greater ability to pay therefore should bear
+ the greatest burden of the tax (vertical equity), but in reality this gave
+ them the ability to sidestep a good portion of the tax.
+ 
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing double
+Frontier farmers were extremely unhappy with this tax as the incidence of
+ the tax fell on them, and they protested by simply not paying it.
+ Who pays the largest share of a tax, also known as the incidence of the
+ tax, depends on who has the ability to avoid the tax by changing what market
+ you're selling to or buying from.
+ Small distilleries were usually found out on the frontier because the farmers
+ out there had a much more difficult time transporting their crops to the
+ markets on the east coast.
+ This meant that their supply was inelastic as they had few, if any, substitute
+ markets to sell their wheat so they turned to distilling whiskey.
+ On the other hand buyers had plenty of options as there were many more
+ firms distilling spirits which provided many substitute goods and therefore
+ demand was elastic.
+ This meant that the burden of the tax fell mostly on the sellers, and because
+ the tax itself burdened smaller distilleries more they justifiably protested
+ the tax which led to government intervention.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing double
+Clearly Hamilton was not concerned with the actual consequences of the tax
+ on the frontier farmers, and instead focused on what he saw as the best
+ outcome for the country.
+ This means that the benefits principle can not be used to justify enacting
+ the whiskey tax.
+ 
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+label "The Whiskey Rebellion - HistoricalSpotlight"
+key "key-1"
+literal "false"
+
+\end_inset
+
+https://www.youtube.com/watch?v=hX9gKS7uMZY
+\end_layout
+
+\end_body
+\end_document

@@ -1,0 +1,52 @@
+2021-07-15T20:02:16.14696500255-20:02:16 **** Incremental Build of configuration Debug for project EE234_proj6 ****
+000-make all 
+000-make --no-print-directory pre-build
+000-a9-linaro-pre-build-step
+000-' '
+000-make --no-print-directory main-build
+000-'Building file: ../src/I2C.c'
+000-'Invoking: ARM v7 gcc compiler'
+000-arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/I2C.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -ID:/Workspace/blackboard_bist/export/blackboard_bist/sw/blackboard_bist/standalone_domain/bspinclude/include -MMD -MP -MF"src/I2C.d" -MT"src/I2C.o" -o "src/I2C.o" "../src/I2C.c"
+000-../src/I2C.c: In function 'initMaster1':
+000/EE234_proj6/src/I2C.c28-1-1implicit declaration of function 'readInt1RegBit'; did you mean 'peekInt1RegBit'? [-Wimplicit-function-declaration]1-../src/I2C.c:28:3: warning: implicit declaration of function 'readInt1RegBit'; did you mean 'peekInt1RegBit'? [-Wimplicit-function-declaration]
+000-   28 |  (readInt1RegBit(IXR_COMP)) ? (UART1_sendString("Transfer Complete Interrupt enabled....\n")) : (UART1_sendString("Interrupt not enabled....\n"));
+000-      |   ^~~~~~~~~~~~~~
+000-      |   peekInt1RegBit
+000-'Finished building: ../src/I2C.c'
+000-' '
+000-'Building file: ../src/LSM9DS1_LM75B.c'
+000-'Invoking: ARM v7 gcc compiler'
+000-arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LSM9DS1_LM75B.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -ID:/Workspace/blackboard_bist/export/blackboard_bist/sw/blackboard_bist/standalone_domain/bspinclude/include -MMD -MP -MF"src/LSM9DS1_LM75B.d" -MT"src/LSM9DS1_LM75B.o" -o "src/LSM9DS1_LM75B.o" "../src/LSM9DS1_LM75B.c"
+000-'Finished building: ../src/LSM9DS1_LM75B.c'
+000-' '
+000-'Building file: ../src/UARTmodule.c'
+000-'Invoking: ARM v7 gcc compiler'
+000-arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/UARTmodule.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -ID:/Workspace/blackboard_bist/export/blackboard_bist/sw/blackboard_bist/standalone_domain/bspinclude/include -MMD -MP -MF"src/UARTmodule.d" -MT"src/UARTmodule.o" -o "src/UARTmodule.o" "../src/UARTmodule.c"
+000-'Finished building: ../src/UARTmodule.c'
+000-' '
+000-'Building file: ../src/main.c'
+000-'Invoking: ARM v7 gcc compiler'
+000-arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -ID:/Workspace/blackboard_bist/export/blackboard_bist/sw/blackboard_bist/standalone_domain/bspinclude/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+000-'Finished building: ../src/main.c'
+000-' '
+000-'Building file: ../src/req1.c'
+000-'Invoking: ARM v7 gcc compiler'
+000-arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/req1.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -ID:/Workspace/blackboard_bist/export/blackboard_bist/sw/blackboard_bist/standalone_domain/bspinclude/include -MMD -MP -MF"src/req1.d" -MT"src/req1.o" -o "src/req1.o" "../src/req1.c"
+000-'Finished building: ../src/req1.c'
+000-' '
+000-'Building target: EE234_proj6.elf'
+000-'Invoking: ARM v7 gcc linker'
+000-arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -LD:/Workspace/blackboard_bist/export/blackboard_bist/sw/blackboard_bist/standalone_domain/bsplib/lib -o "EE234_proj6.elf"  ./src/I2C.o ./src/LSM9DS1_LM75B.o ./src/UARTmodule.o ./src/main.o ./src/req1.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+000-d:/xilinx/vitis/2020.1/gnu/aarch32/nt/gcc-arm-none-eabi/x86_64-oesdk-mingw32/usr/bin/arm-xilinx-eabi/../../libexec/arm-xilinx-eabi/gcc/arm-xilinx-eabi/9.2.0/real-ld.exe: ./src/I2C.o: in function `initMaster1':
+000/EE234_proj6/src/I2C.c28-1-1undefined reference to `readInt1RegBit'2-D:\Workspace\EE234_proj6\Debug/../src/I2C.c:28: undefined reference to `readInt1RegBit'
+000-collect2.exe: error: ld returned 1 exit status
+000-'Finished building target: EE234_proj6.elf'
+000-' '
+000-'Invoking: ARM v7 Print Size'
+000-arm-none-eabi-size EE234_proj6.elf  |tee "EE234_proj6.elf.size"
+000-arm-none-eabi-size: 'EE234_proj6.elf': No such file
+000-'Finished building: EE234_proj6.elf.size'
+000-' '
+00255-
+20:02:17 Build Finished (took 1s.475ms)
+

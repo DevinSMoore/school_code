@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1.1 (64-bit)
+# SW Build 2960000 on Wed Aug  5 22:57:20 MDT 2020
+# IP Build 2956692 on Thu Aug  6 01:41:30 MDT 2020
+# Start of session at: Thu Sep 17 22:15:47 2020
+# Process ID: 213228
+# Current directory: C:/EE214_Projects/MooreDS_Proj2/MooreDS_Proj2.runs/impl_1
+# Command line: vivado.exe -log EE214Proj2Req4.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source EE214Proj2Req4.tcl -notrace
+# Log file: C:/EE214_Projects/MooreDS_Proj2/MooreDS_Proj2.runs/impl_1/EE214Proj2Req4.vdi
+# Journal file: C:/EE214_Projects/MooreDS_Proj2/MooreDS_Proj2.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source EE214Proj2Req4.tcl -notrace

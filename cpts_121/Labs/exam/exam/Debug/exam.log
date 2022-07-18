@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\rache\OneDrive - Washington State University (email.wsu.edu)\Fall 2020\CptS121\Labs\exam\exam\main.c(56,25): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  exam.vcxproj -> C:\Users\rache\OneDrive - Washington State University (email.wsu.edu)\Fall 2020\CptS121\Labs\exam\Debug\exam.exe

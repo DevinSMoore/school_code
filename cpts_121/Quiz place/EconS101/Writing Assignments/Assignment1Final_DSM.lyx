@@ -1,0 +1,228 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+\paragraph_spacing double
+Assignment 1: Immigration
+\end_layout
+
+\begin_layout Author
+\paragraph_spacing double
+Devin Moore 
+\end_layout
+
+\begin_layout Date
+\paragraph_spacing double
+Professor Navelski: EconS101 Section 2 
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing double
+The Mariel Boat-Lift was a large immigration of Cubans into Miami in 1980,
+ and represented the perfect opportunity for economists to understand how
+ immigration affects the local economy.
+ Two articles released in 2017 sought to understand this effect by studying
+ the wages of low-skill workers using census data.
+ One, by Giovanni Peri and Vasil Yasenov, found that there was no noticeable
+ change in the overall trend of wages after the boatlift.
+ The other, by George Borjas, concluded that the boatlift caused a clear
+ reduction in the income of low skill workers.
+ These studies arrived at different conclusions due to the differences in
+ the specific subset of census data each chose to examine.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing double
+The census data was filtered in an attempt to remove any bias, but the specific
+ groups Borjas excluded introduced some into his study.
+ Both studies focused on people between the ages of 24 and 60 as well as
+ removing any workers that had education above a high school degree.
+ Borjas’ study additionally removed women, non-Cuban Hispanics, and anybody
+ with a high school degree or above.
+ This represented a vast majority of the people in the original data set,
+ and such a small sample size means that there is going to be a large uncertaint
+y on any observations he makes.
+ 
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing double
+In 1980 the census bureau changed their policy to include a large number
+ of black people that were previously excluded.
+ During the same time period a large number of Black Haitian immigrants
+ came to Miami, and the census bureau simply grouped them together with
+ black Americans.
+ Both these groups of people were low-income, and very few of them had high
+ school degrees or above.
+ This shift in the CPS data would have shown itself as a significant drop
+ in the average wage of workers with no education after 1980.
+ This would have been seen in Borjas’ data even if no individual's income
+ actually went down specifically because he made the choice to exclude those
+ with an education level of high school or greater.
+ 
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing double
+Another factor that skewed Borjas’ analysis was the specific exclusion of
+ non-Cuban Hispanics from his data set.
+ The average wage of low-skill non-Cuban Hispanic workers in Miami started
+ to show a positive trend after 1980 (Clemens, 2017).
+ His reasoning for excluding this group was that they may cause wage drops
+ in other cities Miami is being compared to, but the primary focus of the
+ study is in Miami itself so that would have little to no effect on local
+ changes.
+ This gives us another situation where, all else being equal, wages would
+ have decreased in Borjas’ study after 1980 just by virtue of the set of
+ data he chose to examine.
+ 
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing double
+The choices Borjas made in determining his data set led directly to a large
+ uncertainty due to low sample size, and also a conclusion based on data
+ that showed a clear bias.
+ These are the reasons the two studies diverged, and why you should be cautious
+ accepting Borjas’ conclusions.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+label "Clemens, 2017"
+key "key-1"
+literal "false"
+
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "There's no evidence that immigrants hurt any American workers by Michael Clemens (2017)"
+target "https://www.vox.com/the-big-idea/2017/6/23/15855342/immigrants-wages-trump-economics-mariel-boatlift-hispanic-cuban"
+literal "false"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+label "Peri & Yasenov, 2017"
+key "key-2"
+literal "false"
+
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "The Labor Market Effects of a Refugee Wave by Giovanni Peri and Vasil Yasenov (2017)"
+target "http://giovanniperi.ucdavis.edu/uploads/5/6/8/2/56826033/mariel_jun2_app.pdf"
+literal "false"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+label "Borjas, 2017"
+key "key-3"
+literal "false"
+
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "The Wage Impact of hte Marielitos by George Borjas (2017)"
+target "https://journals.sagepub.com/doi/10.1177/0019793917692945"
+literal "false"
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document

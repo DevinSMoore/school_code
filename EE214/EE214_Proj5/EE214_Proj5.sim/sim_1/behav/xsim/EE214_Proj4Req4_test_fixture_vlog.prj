@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../EE214_Proj4/verilogCode_Proj4/Requirement 4/EE214_Proj4Req4.v" \
+"../../../../../EE214_Proj4/verilogCode_Proj4/Requirement 4/EE214_Proj4Req4_test_fixture.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

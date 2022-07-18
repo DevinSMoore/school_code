@@ -1,0 +1,909 @@
+TRACE::2021-04-12.14:15:39::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-12.14:15:40::SCWBifWriter::hardware databse : system_wrapper
+TRACE::2021-04-12.14:15:40::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-12.14:15:40::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-12.14:15:40::SCWBifWriter::proc type : 
+TRACE::2021-04-12.14:15:40::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-12.14:15:40::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-12.14:15:40::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-12.14:15:40::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-12.14:19:59::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-12.14:19:59::SCWBifWriter::hardware databse : system_wrapper_1
+TRACE::2021-04-12.14:19:59::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-12.14:19:59::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-12.14:19:59::SCWBifWriter::proc type : 
+TRACE::2021-04-12.14:19:59::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-12.14:19:59::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-12.14:19:59::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-12.14:19:59::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-12.14:51:14::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-12.14:51:14::SCWBifWriter::hardware databse : system_wrapper_10
+TRACE::2021-04-12.14:51:14::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-12.14:51:14::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-12.14:51:14::SCWBifWriter::proc type : 
+TRACE::2021-04-12.14:51:14::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-12.14:51:14::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-12.14:51:14::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-12.14:51:14::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-12.14:53:56::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-12.14:53:56::SCWBifWriter::hardware databse : system_wrapper_13
+TRACE::2021-04-12.14:53:56::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-12.14:53:56::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-12.14:53:56::SCWBifWriter::proc type : 
+TRACE::2021-04-12.14:53:56::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-12.14:53:56::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-12.14:53:56::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-12.14:53:56::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-12.15:00:24::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-12.15:00:24::SCWBifWriter::hardware databse : system_wrapper_13
+TRACE::2021-04-12.15:00:24::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-12.15:00:24::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-12.15:00:24::SCWBifWriter::proc type : 
+TRACE::2021-04-12.15:00:24::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-12.15:00:24::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-12.15:00:24::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-12.15:00:24::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-12.15:28:04::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-12.15:28:04::SCWBifWriter::hardware databse : system_wrapper_21
+TRACE::2021-04-12.15:28:04::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-12.15:28:04::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-12.15:28:04::SCWBifWriter::proc type : 
+TRACE::2021-04-12.15:28:04::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-12.15:28:04::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-12.15:28:04::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-12.15:28:04::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-13.10:58:36::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-13.10:58:36::SCWBifWriter::hardware databse : system_wrapper_0
+TRACE::2021-04-13.10:58:36::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-13.10:58:36::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-13.10:58:36::SCWBifWriter::proc type : 
+TRACE::2021-04-13.10:58:36::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-13.10:58:36::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-13.10:58:36::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-13.10:58:36::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-13.11:54:17::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-13.11:54:17::SCWBifWriter::hardware databse : system_wrapper_0
+TRACE::2021-04-13.11:54:17::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-13.11:54:17::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-13.11:54:17::SCWBifWriter::proc type : 
+TRACE::2021-04-13.11:54:17::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-13.11:54:17::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-13.11:54:17::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-13.11:54:17::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-13.12:05:08::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-13.12:05:09::SCWBifWriter::hardware databse : system_wrapper_3
+TRACE::2021-04-13.12:05:09::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-13.12:05:09::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-13.12:05:09::SCWBifWriter::proc type : 
+TRACE::2021-04-13.12:05:09::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-13.12:05:09::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-13.12:05:09::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-13.12:05:09::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-13.12:18:09::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-13.12:18:09::SCWBifWriter::hardware databse : system_wrapper_7
+TRACE::2021-04-13.12:18:09::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-13.12:18:09::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-13.12:18:09::SCWBifWriter::proc type : 
+TRACE::2021-04-13.12:18:09::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-13.12:18:09::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-13.12:18:09::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-13.12:18:09::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-13.13:02:04::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-13.13:02:04::SCWBifWriter::hardware databse : system_wrapper_9
+TRACE::2021-04-13.13:02:04::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-13.13:02:04::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-13.13:02:04::SCWBifWriter::proc type : 
+TRACE::2021-04-13.13:02:04::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-13.13:02:04::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-13.13:02:04::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-13.13:02:04::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-13.13:02:43::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-13.13:02:43::SCWBifWriter::hardware databse : system_wrapper_10
+TRACE::2021-04-13.13:02:43::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-13.13:02:43::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-13.13:02:43::SCWBifWriter::proc type : 
+TRACE::2021-04-13.13:02:43::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-13.13:02:43::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-13.13:02:43::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-13.13:02:43::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-13.13:13:03::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-13.13:13:03::SCWBifWriter::hardware databse : system_wrapper_16
+TRACE::2021-04-13.13:13:03::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-13.13:13:03::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-13.13:13:03::SCWBifWriter::proc type : 
+TRACE::2021-04-13.13:13:03::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-13.13:13:03::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-13.13:13:03::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-13.13:13:03::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-13.14:14:10::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-13.14:14:10::SCWBifWriter::hardware databse : system_wrapper_21
+TRACE::2021-04-13.14:14:10::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-13.14:14:10::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-13.14:14:10::SCWBifWriter::proc type : 
+TRACE::2021-04-13.14:14:10::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-13.14:14:10::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-13.14:14:10::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-13.14:14:10::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-13.14:16:32::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-13.14:16:32::SCWBifWriter::hardware databse : system_wrapper_21
+TRACE::2021-04-13.14:16:32::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-13.14:16:32::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-13.14:16:32::SCWBifWriter::proc type : 
+TRACE::2021-04-13.14:16:32::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-13.14:16:32::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-13.14:16:32::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-13.14:16:32::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-13.14:20:41::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-13.14:20:41::SCWBifWriter::hardware databse : system_wrapper_23
+TRACE::2021-04-13.14:20:41::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-13.14:20:41::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-13.14:20:41::SCWBifWriter::proc type : 
+TRACE::2021-04-13.14:20:41::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-13.14:20:41::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-13.14:20:41::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-13.14:20:41::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-13.14:34:55::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-13.14:34:55::SCWBifWriter::hardware databse : system_wrapper
+TRACE::2021-04-13.14:34:55::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-13.14:34:55::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-13.14:34:55::SCWBifWriter::proc type : 
+TRACE::2021-04-13.14:34:55::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-13.14:34:55::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-13.14:34:55::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-13.14:34:55::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-13.15:13:23::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-13.15:13:23::SCWBifWriter::hardware databse : system_wrapper_1
+TRACE::2021-04-13.15:13:23::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-13.15:13:23::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-13.15:13:23::SCWBifWriter::proc type : 
+TRACE::2021-04-13.15:13:23::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-13.15:13:23::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-13.15:13:23::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-13.15:13:23::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-13.15:17:45::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-13.15:17:45::SCWBifWriter::hardware databse : system_wrapper_3
+TRACE::2021-04-13.15:17:45::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-13.15:17:45::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-13.15:17:45::SCWBifWriter::proc type : 
+TRACE::2021-04-13.15:17:45::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-13.15:17:45::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-13.15:17:45::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-13.15:17:45::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-13.15:42:43::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-13.15:42:43::SCWBifWriter::hardware databse : system_wrapper_13
+TRACE::2021-04-13.15:42:43::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-13.15:42:43::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-13.15:42:43::SCWBifWriter::proc type : 
+TRACE::2021-04-13.15:42:43::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-13.15:42:43::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-13.15:42:43::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-13.15:42:43::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-13.15:48:49::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-13.15:48:49::SCWBifWriter::hardware databse : system_wrapper_16
+TRACE::2021-04-13.15:48:49::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-13.15:48:49::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-13.15:48:49::SCWBifWriter::proc type : 
+TRACE::2021-04-13.15:48:49::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-13.15:48:49::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-13.15:48:49::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-13.15:48:49::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-13.15:50:45::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-13.15:50:45::SCWBifWriter::hardware databse : system_wrapper_16
+TRACE::2021-04-13.15:50:45::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-13.15:50:45::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-13.15:50:45::SCWBifWriter::proc type : 
+TRACE::2021-04-13.15:50:45::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-13.15:50:45::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-13.15:50:45::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-13.15:50:45::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-13.15:55:38::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-13.15:55:38::SCWBifWriter::hardware databse : system_wrapper_16
+TRACE::2021-04-13.15:55:38::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-13.15:55:38::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-13.15:55:38::SCWBifWriter::proc type : 
+TRACE::2021-04-13.15:55:38::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-13.15:55:38::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-13.15:55:38::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-13.15:55:38::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-13.15:56:02::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-13.15:56:02::SCWBifWriter::hardware databse : system_wrapper_16
+TRACE::2021-04-13.15:56:02::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-13.15:56:02::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-13.15:56:02::SCWBifWriter::proc type : 
+TRACE::2021-04-13.15:56:02::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-13.15:56:02::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-13.15:56:02::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-13.15:56:02::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-13.15:59:43::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-13.15:59:43::SCWBifWriter::hardware databse : system_wrapper_16
+TRACE::2021-04-13.15:59:43::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-13.15:59:43::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-13.15:59:43::SCWBifWriter::proc type : 
+TRACE::2021-04-13.15:59:43::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-13.15:59:43::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-13.15:59:43::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-13.15:59:43::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-13.16:13:11::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-13.16:13:12::SCWBifWriter::hardware databse : system_wrapper_2
+TRACE::2021-04-13.16:13:12::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-13.16:13:12::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-13.16:13:12::SCWBifWriter::proc type : 
+TRACE::2021-04-13.16:13:12::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-13.16:13:12::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-13.16:13:12::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-13.16:13:12::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-13.16:17:32::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-13.16:17:33::SCWBifWriter::hardware databse : system_wrapper
+TRACE::2021-04-13.16:17:33::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-13.16:17:33::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-13.16:17:33::SCWBifWriter::proc type : 
+TRACE::2021-04-13.16:17:33::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-13.16:17:33::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-13.16:17:33::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-13.16:17:33::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-13.16:27:24::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-13.16:27:24::SCWBifWriter::hardware databse : system_wrapper_0
+TRACE::2021-04-13.16:27:24::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-13.16:27:24::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-13.16:27:24::SCWBifWriter::proc type : 
+TRACE::2021-04-13.16:27:24::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-13.16:27:24::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-13.16:27:24::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-13.16:27:24::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-13.16:34:54::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-13.16:34:54::SCWBifWriter::hardware databse : system_wrapper_3
+TRACE::2021-04-13.16:34:54::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-13.16:34:54::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-13.16:34:54::SCWBifWriter::proc type : 
+TRACE::2021-04-13.16:34:54::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-13.16:34:54::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-13.16:34:54::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-13.16:34:54::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-13.16:42:53::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-13.16:42:53::SCWBifWriter::hardware databse : system_wrapper_1
+TRACE::2021-04-13.16:42:53::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-13.16:42:53::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-13.16:42:53::SCWBifWriter::proc type : 
+TRACE::2021-04-13.16:42:53::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-13.16:42:53::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-13.16:42:53::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-13.16:42:53::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-13.16:45:39::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-13.16:45:39::SCWBifWriter::hardware databse : system_wrapper_3
+TRACE::2021-04-13.16:45:39::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-13.16:45:39::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-13.16:45:39::SCWBifWriter::proc type : 
+TRACE::2021-04-13.16:45:39::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-13.16:45:39::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-13.16:45:39::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-13.16:45:39::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-13.16:49:18::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-13.16:49:18::SCWBifWriter::hardware databse : system_wrapper
+TRACE::2021-04-13.16:49:18::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-13.16:49:18::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-13.16:49:18::SCWBifWriter::proc type : 
+TRACE::2021-04-13.16:49:18::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-13.16:49:18::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-13.16:49:18::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-13.16:49:18::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-13.16:50:20::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-13.16:50:20::SCWBifWriter::hardware databse : system_wrapper
+TRACE::2021-04-13.16:50:20::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-13.16:50:20::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-13.16:50:20::SCWBifWriter::proc type : 
+TRACE::2021-04-13.16:50:20::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-13.16:50:20::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-13.16:50:20::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-13.16:50:20::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-13.16:56:29::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-13.16:56:29::SCWBifWriter::hardware databse : system_wrapper_3
+TRACE::2021-04-13.16:56:29::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-13.16:56:29::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-13.16:56:29::SCWBifWriter::proc type : 
+TRACE::2021-04-13.16:56:29::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-13.16:56:29::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-13.16:56:29::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-13.16:56:29::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-13.16:57:32::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-13.16:57:32::SCWBifWriter::hardware databse : system_wrapper_4
+TRACE::2021-04-13.16:57:32::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-13.16:57:32::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-13.16:57:32::SCWBifWriter::proc type : 
+TRACE::2021-04-13.16:57:32::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-13.16:57:32::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-13.16:57:32::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-13.16:57:32::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-13.17:08:16::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-13.17:08:16::SCWBifWriter::hardware databse : system_wrapper_0
+TRACE::2021-04-13.17:08:16::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-13.17:08:16::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-13.17:08:16::SCWBifWriter::proc type : 
+TRACE::2021-04-13.17:08:16::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-13.17:08:16::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-13.17:08:16::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-13.17:08:16::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-13.17:21:17::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-13.17:21:18::SCWBifWriter::hardware databse : system_wrapper_6
+TRACE::2021-04-13.17:21:18::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-13.17:21:18::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-13.17:21:18::SCWBifWriter::proc type : 
+TRACE::2021-04-13.17:21:18::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-13.17:21:18::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-13.17:21:18::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-13.17:21:18::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-13.17:23:05::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-13.17:23:05::SCWBifWriter::hardware databse : system_wrapper_6
+TRACE::2021-04-13.17:23:05::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-13.17:23:05::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-13.17:23:05::SCWBifWriter::proc type : 
+TRACE::2021-04-13.17:23:05::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-13.17:23:05::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-13.17:23:05::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-13.17:23:05::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-13.20:19:35::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-13.20:19:35::SCWBifWriter::hardware databse : system_wrapper
+TRACE::2021-04-13.20:19:35::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-13.20:19:35::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-13.20:19:35::SCWBifWriter::proc type : 
+TRACE::2021-04-13.20:19:35::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-13.20:19:35::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-13.20:19:35::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-13.20:19:35::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-13.20:24:30::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-13.20:24:30::SCWBifWriter::hardware databse : system_wrapper
+TRACE::2021-04-13.20:24:30::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-13.20:24:30::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-13.20:24:30::SCWBifWriter::proc type : 
+TRACE::2021-04-13.20:24:30::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-13.20:24:30::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-13.20:24:30::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-13.20:24:30::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-13.22:01:07::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-13.22:01:07::SCWBifWriter::hardware databse : system_wrapper_0
+TRACE::2021-04-13.22:01:07::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-13.22:01:07::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-13.22:01:07::SCWBifWriter::proc type : 
+TRACE::2021-04-13.22:01:07::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-13.22:01:07::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-13.22:01:07::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-13.22:01:07::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-13.22:02:36::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-13.22:02:36::SCWBifWriter::hardware databse : system_wrapper_1
+TRACE::2021-04-13.22:02:36::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-13.22:02:36::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-13.22:02:36::SCWBifWriter::proc type : 
+TRACE::2021-04-13.22:02:36::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-13.22:02:36::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-13.22:02:36::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-13.22:02:36::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-13.22:05:04::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-13.22:05:04::SCWBifWriter::hardware databse : system_wrapper_1
+TRACE::2021-04-13.22:05:04::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-13.22:05:04::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-13.22:05:04::SCWBifWriter::proc type : 
+TRACE::2021-04-13.22:05:04::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-13.22:05:04::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-13.22:05:04::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-13.22:05:04::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-13.22:08:01::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-13.22:08:01::SCWBifWriter::hardware databse : system_wrapper_1
+TRACE::2021-04-13.22:08:01::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-13.22:08:01::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-13.22:08:01::SCWBifWriter::proc type : 
+TRACE::2021-04-13.22:08:01::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-13.22:08:01::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-13.22:08:01::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-13.22:08:01::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-13.22:10:36::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-13.22:10:36::SCWBifWriter::hardware databse : system_wrapper_3
+TRACE::2021-04-13.22:10:36::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-13.22:10:36::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-13.22:10:36::SCWBifWriter::proc type : 
+TRACE::2021-04-13.22:10:36::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-13.22:10:36::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-13.22:10:36::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-13.22:10:36::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-13.22:49:35::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-13.22:49:35::SCWBifWriter::hardware databse : system_wrapper
+TRACE::2021-04-13.22:49:35::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-13.22:49:35::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-13.22:49:35::SCWBifWriter::proc type : 
+TRACE::2021-04-13.22:49:35::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-13.22:49:35::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-13.22:49:35::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-13.22:49:35::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-13.22:52:03::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-13.22:52:03::SCWBifWriter::hardware databse : system_wrapper
+TRACE::2021-04-13.22:52:03::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-13.22:52:03::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-13.22:52:03::SCWBifWriter::proc type : 
+TRACE::2021-04-13.22:52:03::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-13.22:52:03::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-13.22:52:03::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-13.22:52:03::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-14.12:48:59::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-14.12:48:59::SCWBifWriter::hardware databse : system_wrapper_0
+TRACE::2021-04-14.12:48:59::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-14.12:48:59::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-14.12:48:59::SCWBifWriter::proc type : 
+TRACE::2021-04-14.12:48:59::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-14.12:48:59::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-14.12:48:59::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-14.12:48:59::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-14.12:51:50::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-14.12:51:50::SCWBifWriter::hardware databse : system_wrapper_2
+TRACE::2021-04-14.12:51:50::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-14.12:51:50::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-14.12:51:50::SCWBifWriter::proc type : 
+TRACE::2021-04-14.12:51:50::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-14.12:51:50::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-14.12:51:50::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-14.12:51:50::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-14.14:04:12::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-14.14:04:12::SCWBifWriter::hardware databse : system_wrapper_5
+TRACE::2021-04-14.14:04:12::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-14.14:04:12::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-14.14:04:12::SCWBifWriter::proc type : 
+TRACE::2021-04-14.14:04:12::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-14.14:04:12::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-14.14:04:12::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-14.14:04:12::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-14.14:55:46::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-14.14:55:46::SCWBifWriter::hardware databse : system_wrapper_0
+TRACE::2021-04-14.14:55:46::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-14.14:55:46::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-14.14:55:46::SCWBifWriter::proc type : 
+TRACE::2021-04-14.14:55:46::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-14.14:55:46::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-14.14:55:46::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-14.14:55:46::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-14.15:08:20::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-14.15:08:20::SCWBifWriter::hardware databse : system_wrapper_0
+TRACE::2021-04-14.15:08:20::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-14.15:08:20::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-14.15:08:20::SCWBifWriter::proc type : 
+TRACE::2021-04-14.15:08:20::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-14.15:08:20::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-14.15:08:20::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-14.15:08:20::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-14.16:57:03::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-14.16:57:03::SCWBifWriter::hardware databse : system_wrapper_0
+TRACE::2021-04-14.16:57:03::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-14.16:57:03::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-14.16:57:03::SCWBifWriter::proc type : 
+TRACE::2021-04-14.16:57:03::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-14.16:57:03::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-14.16:57:03::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-14.16:57:03::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-14.21:35:16::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-14.21:35:16::SCWBifWriter::hardware databse : system_wrapper_0
+TRACE::2021-04-14.21:35:16::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-14.21:35:16::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-14.21:35:16::SCWBifWriter::proc type : 
+TRACE::2021-04-14.21:35:16::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-14.21:35:16::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-14.21:35:16::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-14.21:35:16::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-14.22:15:15::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-14.22:15:16::SCWBifWriter::hardware databse : system_wrapper_0
+TRACE::2021-04-14.22:15:16::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-14.22:15:16::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-14.22:15:16::SCWBifWriter::proc type : 
+TRACE::2021-04-14.22:15:16::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-14.22:15:16::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-14.22:15:16::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-14.22:15:16::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-14.22:34:41::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-14.22:34:41::SCWBifWriter::hardware databse : system_wrapper_0
+TRACE::2021-04-14.22:34:41::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-14.22:34:41::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-14.22:34:41::SCWBifWriter::proc type : 
+TRACE::2021-04-14.22:34:41::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-14.22:34:41::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-14.22:34:41::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-14.22:34:41::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-14.22:36:55::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-14.22:36:55::SCWBifWriter::hardware databse : system_wrapper_0
+TRACE::2021-04-14.22:36:55::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-14.22:36:55::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-14.22:36:55::SCWBifWriter::proc type : 
+TRACE::2021-04-14.22:36:55::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-14.22:36:55::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-14.22:36:55::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-14.22:36:55::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-14.23:01:30::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-14.23:01:30::SCWBifWriter::hardware databse : system_wrapper_0
+TRACE::2021-04-14.23:01:30::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-14.23:01:30::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-14.23:01:30::SCWBifWriter::proc type : 
+TRACE::2021-04-14.23:01:30::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-14.23:01:30::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-14.23:01:30::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-14.23:01:30::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-15.09:43:25::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-15.09:43:25::SCWBifWriter::hardware databse : system_wrapper_0
+TRACE::2021-04-15.09:43:25::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-15.09:43:25::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-15.09:43:25::SCWBifWriter::proc type : 
+TRACE::2021-04-15.09:43:25::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-15.09:43:25::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-15.09:43:25::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-15.09:43:25::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-15.09:58:22::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-15.09:58:22::SCWBifWriter::hardware databse : system_wrapper_0
+TRACE::2021-04-15.09:58:22::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-15.09:58:22::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-15.09:58:22::SCWBifWriter::proc type : 
+TRACE::2021-04-15.09:58:22::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-15.09:58:22::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-15.09:58:22::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-15.09:58:22::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-15.10:06:56::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-15.10:06:56::SCWBifWriter::hardware databse : system_wrapper_0
+TRACE::2021-04-15.10:06:56::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-15.10:06:56::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-15.10:06:56::SCWBifWriter::proc type : 
+TRACE::2021-04-15.10:06:56::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-15.10:06:56::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-15.10:06:56::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-15.10:06:56::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-15.10:34:49::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-15.10:34:49::SCWBifWriter::hardware databse : system_wrapper_0
+TRACE::2021-04-15.10:34:49::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-15.10:34:49::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-15.10:34:49::SCWBifWriter::proc type : 
+TRACE::2021-04-15.10:34:49::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-15.10:34:49::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-15.10:34:49::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-15.10:34:49::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-15.10:47:28::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-15.10:47:28::SCWBifWriter::hardware databse : system_wrapper_0
+TRACE::2021-04-15.10:47:28::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-15.10:47:28::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-15.10:47:28::SCWBifWriter::proc type : 
+TRACE::2021-04-15.10:47:28::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-15.10:47:28::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-15.10:47:28::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-15.10:47:28::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-15.11:03:26::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-15.11:03:26::SCWBifWriter::hardware databse : system_wrapper_0
+TRACE::2021-04-15.11:03:26::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-15.11:03:26::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-15.11:03:26::SCWBifWriter::proc type : 
+TRACE::2021-04-15.11:03:26::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-15.11:03:26::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-15.11:03:26::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-15.11:03:26::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-15.11:15:42::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-15.11:15:42::SCWBifWriter::hardware databse : system_wrapper_0
+TRACE::2021-04-15.11:15:42::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-15.11:15:42::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-15.11:15:42::SCWBifWriter::proc type : 
+TRACE::2021-04-15.11:15:42::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-15.11:15:42::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-15.11:15:42::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-15.11:15:42::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-15.11:18:33::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-15.11:18:33::SCWBifWriter::hardware databse : system_wrapper_0
+TRACE::2021-04-15.11:18:33::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-15.11:18:33::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-15.11:18:33::SCWBifWriter::proc type : 
+TRACE::2021-04-15.11:18:33::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-15.11:18:33::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-15.11:18:33::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-15.11:18:33::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-15.11:24:47::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-15.11:24:47::SCWBifWriter::hardware databse : system_wrapper_0
+TRACE::2021-04-15.11:24:47::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-15.11:24:47::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-15.11:24:47::SCWBifWriter::proc type : 
+TRACE::2021-04-15.11:24:47::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-15.11:24:47::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-15.11:24:47::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-15.11:24:47::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-15.11:32:56::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-15.11:32:56::SCWBifWriter::hardware databse : system_wrapper_0
+TRACE::2021-04-15.11:32:56::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-15.11:32:56::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-15.11:32:56::SCWBifWriter::proc type : 
+TRACE::2021-04-15.11:32:56::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-15.11:32:56::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-15.11:32:56::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-15.11:32:56::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-15.11:35:22::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-15.11:35:22::SCWBifWriter::hardware databse : system_wrapper_0
+TRACE::2021-04-15.11:35:22::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-15.11:35:22::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-15.11:35:22::SCWBifWriter::proc type : 
+TRACE::2021-04-15.11:35:22::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-15.11:35:22::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-15.11:35:22::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-15.11:35:22::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-15.11:41:14::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-15.11:41:14::SCWBifWriter::hardware databse : system_wrapper_0
+TRACE::2021-04-15.11:41:14::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-15.11:41:14::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-15.11:41:14::SCWBifWriter::proc type : 
+TRACE::2021-04-15.11:41:14::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-15.11:41:14::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-15.11:41:14::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-15.11:41:14::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-15.11:42:00::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-15.11:42:00::SCWBifWriter::hardware databse : system_wrapper_0
+TRACE::2021-04-15.11:42:00::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-15.11:42:00::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-15.11:42:00::SCWBifWriter::proc type : 
+TRACE::2021-04-15.11:42:00::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-15.11:42:00::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-15.11:42:00::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-15.11:42:00::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-15.11:43:35::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-15.11:43:35::SCWBifWriter::hardware databse : system_wrapper_0
+TRACE::2021-04-15.11:43:35::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-15.11:43:35::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-15.11:43:35::SCWBifWriter::proc type : 
+TRACE::2021-04-15.11:43:35::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-15.11:43:35::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-15.11:43:35::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-15.11:43:35::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-15.11:46:26::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-15.11:46:26::SCWBifWriter::hardware databse : system_wrapper_0
+TRACE::2021-04-15.11:46:26::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-15.11:46:26::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-15.11:46:26::SCWBifWriter::proc type : 
+TRACE::2021-04-15.11:46:26::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-15.11:46:26::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-15.11:46:26::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-15.11:46:26::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-15.11:50:36::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-15.11:50:36::SCWBifWriter::hardware databse : system_wrapper_0
+TRACE::2021-04-15.11:50:36::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-15.11:50:36::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-15.11:50:36::SCWBifWriter::proc type : 
+TRACE::2021-04-15.11:50:36::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-15.11:50:36::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-15.11:50:36::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-15.11:50:36::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-15.15:55:51::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-15.15:55:51::SCWBifWriter::hardware databse : system_wrapper_0
+TRACE::2021-04-15.15:55:51::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-15.15:55:51::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-15.15:55:51::SCWBifWriter::proc type : 
+TRACE::2021-04-15.15:55:51::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-15.15:55:51::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-15.15:55:51::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-15.15:55:51::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-15.16:03:46::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-15.16:03:46::SCWBifWriter::hardware databse : system_wrapper_0
+TRACE::2021-04-15.16:03:46::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-15.16:03:46::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-15.16:03:46::SCWBifWriter::proc type : 
+TRACE::2021-04-15.16:03:46::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-15.16:03:46::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-15.16:03:46::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-15.16:03:46::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-15.16:05:06::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-15.16:05:06::SCWBifWriter::hardware databse : system_wrapper_0
+TRACE::2021-04-15.16:05:06::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-15.16:05:06::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-15.16:05:06::SCWBifWriter::proc type : 
+TRACE::2021-04-15.16:05:06::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-15.16:05:06::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-15.16:05:06::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-15.16:05:06::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-15.16:16:58::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-15.16:16:58::SCWBifWriter::hardware databse : system_wrapper_0
+TRACE::2021-04-15.16:16:58::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-15.16:16:58::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-15.16:16:58::SCWBifWriter::proc type : 
+TRACE::2021-04-15.16:16:58::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-15.16:16:58::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-15.16:16:58::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-15.16:16:58::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-15.16:26:29::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-15.16:26:29::SCWBifWriter::hardware databse : system_wrapper_0
+TRACE::2021-04-15.16:26:29::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-15.16:26:29::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-15.16:26:29::SCWBifWriter::proc type : 
+TRACE::2021-04-15.16:26:29::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-15.16:26:29::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-15.16:26:29::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-15.16:26:29::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-16.22:48:15::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-16.22:48:15::SCWBifWriter::hardware databse : system_wrapper_0
+TRACE::2021-04-16.22:48:15::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-16.22:48:15::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-16.22:48:15::SCWBifWriter::proc type : 
+TRACE::2021-04-16.22:48:15::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-16.22:48:15::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-16.22:48:15::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-16.22:48:15::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-17.13:56:49::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-17.13:56:49::SCWBifWriter::hardware databse : system_wrapper
+TRACE::2021-04-17.13:56:49::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-17.13:56:49::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-17.13:56:49::SCWBifWriter::proc type : 
+TRACE::2021-04-17.13:56:49::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-17.13:56:49::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-17.13:56:49::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-17.13:56:49::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-17.17:29:45::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-17.17:29:45::SCWBifWriter::hardware databse : system_wrapper
+TRACE::2021-04-17.17:29:45::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-17.17:29:45::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-17.17:29:45::SCWBifWriter::proc type : 
+TRACE::2021-04-17.17:29:45::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-17.17:29:45::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-17.17:29:45::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-17.17:29:45::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-17.18:25:16::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-17.18:25:16::SCWBifWriter::hardware databse : system_wrapper
+TRACE::2021-04-17.18:25:16::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-17.18:25:16::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-17.18:25:16::SCWBifWriter::proc type : 
+TRACE::2021-04-17.18:25:16::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-17.18:25:16::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-17.18:25:16::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-17.18:25:16::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-17.18:45:30::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-17.18:45:30::SCWBifWriter::hardware databse : system_wrapper
+TRACE::2021-04-17.18:45:30::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-17.18:45:30::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-17.18:45:30::SCWBifWriter::proc type : 
+TRACE::2021-04-17.18:45:30::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-17.18:45:30::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-17.18:45:30::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-17.18:45:30::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-17.20:00:33::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-17.20:00:33::SCWBifWriter::hardware databse : system_wrapper
+TRACE::2021-04-17.20:00:33::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-17.20:00:33::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-17.20:00:33::SCWBifWriter::proc type : 
+TRACE::2021-04-17.20:00:33::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-17.20:00:33::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-17.20:00:33::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-17.20:00:33::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-17.20:01:48::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-17.20:01:48::SCWBifWriter::hardware databse : system_wrapper
+TRACE::2021-04-17.20:01:48::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-17.20:01:48::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-17.20:01:48::SCWBifWriter::proc type : 
+TRACE::2021-04-17.20:01:48::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-17.20:01:48::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-17.20:01:48::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-17.20:01:48::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-17.20:06:22::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-17.20:06:22::SCWBifWriter::hardware databse : system_wrapper
+TRACE::2021-04-17.20:06:22::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-17.20:06:22::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-17.20:06:22::SCWBifWriter::proc type : 
+TRACE::2021-04-17.20:06:22::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-17.20:06:22::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-17.20:06:22::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-17.20:06:22::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-17.20:32:59::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-17.20:32:59::SCWBifWriter::hardware databse : system_wrapper
+TRACE::2021-04-17.20:32:59::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-17.20:32:59::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-17.20:32:59::SCWBifWriter::proc type : 
+TRACE::2021-04-17.20:32:59::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-17.20:32:59::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-17.20:32:59::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-17.20:32:59::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-17.22:12:17::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-17.22:12:18::SCWBifWriter::hardware databse : system_wrapper_4
+TRACE::2021-04-17.22:12:18::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-17.22:12:18::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-17.22:12:18::SCWBifWriter::proc type : 
+TRACE::2021-04-17.22:12:18::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-17.22:12:18::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-17.22:12:18::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-17.22:12:18::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-17.22:16:38::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-17.22:16:39::SCWBifWriter::hardware databse : system_wrapper_5
+TRACE::2021-04-17.22:16:39::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-17.22:16:39::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-17.22:16:39::SCWBifWriter::proc type : 
+TRACE::2021-04-17.22:16:39::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-17.22:16:39::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-17.22:16:39::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-17.22:16:39::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-18.12:28:55::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-18.12:28:55::SCWBifWriter::hardware databse : system_wrapper_6
+TRACE::2021-04-18.12:28:55::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-18.12:28:55::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-18.12:28:55::SCWBifWriter::proc type : 
+TRACE::2021-04-18.12:28:55::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-18.12:28:55::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-18.12:28:55::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-18.12:28:55::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-18.12:39:58::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-18.12:39:58::SCWBifWriter::hardware databse : system_wrapper_6
+TRACE::2021-04-18.12:39:58::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-18.12:39:58::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-18.12:39:58::SCWBifWriter::proc type : 
+TRACE::2021-04-18.12:39:58::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-18.12:39:58::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-18.12:39:58::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-18.12:39:58::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-19.08:26:17::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-19.08:26:17::SCWBifWriter::hardware databse : system_wrapper
+TRACE::2021-04-19.08:26:17::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-19.08:26:17::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-19.08:26:17::SCWBifWriter::proc type : 
+TRACE::2021-04-19.08:26:17::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-19.08:26:17::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-19.08:26:18::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-19.08:26:18::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-19.21:03:27::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-19.21:03:27::SCWBifWriter::hardware databse : system_wrapper
+TRACE::2021-04-19.21:03:27::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-19.21:03:27::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-19.21:03:27::SCWBifWriter::proc type : 
+TRACE::2021-04-19.21:03:27::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-19.21:03:27::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-19.21:03:27::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-19.21:03:27::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-19.21:22:41::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-19.21:22:41::SCWBifWriter::hardware databse : system_wrapper_3
+TRACE::2021-04-19.21:22:41::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-19.21:22:41::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-19.21:22:41::SCWBifWriter::proc type : 
+TRACE::2021-04-19.21:22:41::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-19.21:22:41::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-19.21:22:41::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-19.21:22:41::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-27.19:46:08::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-27.19:46:08::SCWBifWriter::hardware databse : system_wrapper
+TRACE::2021-04-27.19:46:08::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-27.19:46:08::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-27.19:46:08::SCWBifWriter::proc type : 
+TRACE::2021-04-27.19:46:08::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-27.19:46:08::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-27.19:46:08::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-27.19:46:08::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-28.14:53:18::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-28.14:53:18::SCWBifWriter::hardware databse : system_wrapper
+TRACE::2021-04-28.14:53:18::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-28.14:53:18::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-28.14:53:18::SCWBifWriter::proc type : 
+TRACE::2021-04-28.14:53:18::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-28.14:53:18::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-28.14:53:18::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-28.14:53:18::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-29.09:48:43::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-29.09:48:43::SCWBifWriter::hardware databse : system_wrapper_14
+TRACE::2021-04-29.09:48:43::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-29.09:48:43::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-29.09:48:43::SCWBifWriter::proc type : 
+TRACE::2021-04-29.09:48:43::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-29.09:48:43::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-29.09:48:43::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-29.09:48:43::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-04-29.11:59:47::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-04-29.11:59:47::SCWBifWriter::hardware databse : system_wrapper_48
+TRACE::2021-04-29.11:59:47::SCWBifWriter::bitstream found in the design
+TRACE::2021-04-29.11:59:47::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-04-29.11:59:47::SCWBifWriter::proc type : 
+TRACE::2021-04-29.11:59:47::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-04-29.11:59:47::SCWBifWriter::Device type is : zynq
+TRACE::2021-04-29.11:59:47::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-04-29.11:59:47::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-07-14.17:24:39::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-07-14.17:24:39::SCWBifWriter::hardware databse : system_wrapper_0
+TRACE::2021-07-14.17:24:39::SCWBifWriter::bitstream found in the design
+TRACE::2021-07-14.17:24:39::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-07-14.17:24:39::SCWBifWriter::proc type : 
+TRACE::2021-07-14.17:24:39::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-07-14.17:24:39::SCWBifWriter::Device type is : zynq
+TRACE::2021-07-14.17:24:39::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-07-14.17:24:39::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2021-07-15.20:02:31::SCWBifWriter::Found the complete platform D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm
+TRACE::2021-07-15.20:02:31::SCWBifWriter::hardware databse : system_wrapper_0
+TRACE::2021-07-15.20:02:31::SCWBifWriter::bitstream found in the design
+TRACE::2021-07-15.20:02:31::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2021-07-15.20:02:31::SCWBifWriter::proc type : 
+TRACE::2021-07-15.20:02:31::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2021-07-15.20:02:31::SCWBifWriter::Device type is : zynq
+TRACE::2021-07-15.20:02:31::SCWBifWriter::Writing BIF to file : D:/Workspace/EE234_Proj4_system/Debug/system.bif
+TRACE::2021-07-15.20:02:31::SCWBifWriter::Writing the Zynq Baremetal bif 

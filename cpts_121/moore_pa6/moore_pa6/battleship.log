@@ -1,0 +1,49 @@
+Player 1 miss at row: 0 column: 0
+Player 2 took a shot at row: 0 and Column: 2: Player 2 miss
+Player 1 hit at row: 1 column: 3
+Player 2 took a shot at row: 2 and Column: 5: Player 2 miss
+Player 1 hit at row: 1 column: 4
+Player 1 Sunk: destroyer
+Player 2 took a shot at row: 9 and Column: 3: Player 2 miss
+Player 1 hit at row: 2 column: 0
+Player 2 took a shot at row: 9 and Column: 8: Player 2 miss
+Player 1 hit at row: 2 column: 1
+Player 2 took a shot at row: 8 and Column: 5: Player 2 miss
+Player 1 hit at row: 2 column: 2
+Player 1 Sunk: cruiser
+Player 2 took a shot at row: 2 and Column: 0: Player 2 miss
+Player 1 hit at row: 7 column: 0
+Player 2 took a shot at row: 7 and Column: 6: Player 2 miss
+Player 1 hit at row: 7 column: 1
+Player 2 took a shot at row: 8 and Column: 8: Player 2 hit
+Player 1 hit at row: 7 column: 2
+Player 2 took a shot at row: 3 and Column: 6: Player 2 hit
+Player 1 hit at row: 7 column: 3
+Player 2 took a shot at row: 4 and Column: 8: Player 2 miss
+Player 1 hit at row: 7 column: 4
+Player 1 Sunk: carrier
+Player 2 took a shot at row: 4 and Column: 6: Player 2 miss
+Player 1 hit at row: 8 column: 5
+Player 2 took a shot at row: 9 and Column: 7: Player 2 hit
+Player 1 hit at row: 8 column: 6
+Player 2 took a shot at row: 7 and Column: 8: Player 2 miss
+Player 1 hit at row: 8 column: 7
+Player 2 took a shot at row: 4 and Column: 3: Player 2 miss
+Player 1 hit at row: 8 column: 8
+Player 1 Sunk: battleship
+Player 2 took a shot at row: 0 and Column: 4: Player 2 miss
+Player 1 hit at row: 4 column: 5
+Player 2 took a shot at row: 8 and Column: 2: Player 2 miss
+Player 1 hit at row: 5 column: 5
+Player 2 took a shot at row: 8 and Column: 3: Player 2 miss
+Player 1 hit at row: 6 column: 5
+Player 1 Sunk: submarine
++-----------------------------------------------------------+
+| Players:					|    Player 1	|    Player 2	|
+| Guesses					|		18		|		17		|
+| Hits						|		17		|		3		|
+| Misses					|		1		|		14		|
+| Hit-Miss Percentage		|		1600		|		21		|
+| Is this player the winner	|      TRUE		|      FALSE		|
++-----------------------------------------------------------+
+Congratulations Player 1!!

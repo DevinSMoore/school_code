@@ -1,0 +1,18 @@
+0.7
+2020.1.1
+Aug  5 2020
+23:19:43
+C:/EE214_Projects/EE214_Proj7/EE214_Proj7.sim/sim_1/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,
+C:/EE214_Projects/EE214_Proj7/EE214_Proj7.srcs/sim_1/new/EE214_Proj7Req1_TB.v,1604186761,verilog,,,,EE214_Proj7Req1_TB,,,,,,,,
+C:/EE214_Projects/EE214_Proj7/EE214_Proj7.srcs/sim_1/new/EE214_Proj7Req2_TB.v,1604270505,verilog,,,,EE214_Proj7Req2_TB,,,,,,,,
+C:/EE214_Projects/EE214_Proj7/EE214_Proj7.srcs/sim_1/new/EE214_Proj7Req3_TB.v,1604189058,verilog,,,,EE214_Proj7Req3_TB,,,,,,,,
+C:/EE214_Projects/EE214_Proj7/EE214_Proj7.srcs/sim_1/new/EE214_Proj7Req4_TB.v,1604196472,verilog,,,,EE214_Proj7Req4_TB,,,,,,,,
+C:/EE214_Projects/EE214_Proj7/EE214_Proj7.srcs/sim_1/new/EE214_Proj7Req5_TB.v,1604210923,verilog,,,,EE214_Proj7Req5_TB,,,,,,,,
+C:/EE214_Projects/EE214_Proj7/EE214_Proj7.srcs/sources_1/new/DFF.v,1604195559,verilog,,C:/EE214_Projects/EE214_Proj7/EE214_Proj7.srcs/sources_1/new/EE214_Proj7Req5.v,,DFF,,,,,,,,
+C:/EE214_Projects/EE214_Proj7/EE214_Proj7.srcs/sources_1/new/EE214_Proj7Req1.v,1604054845,verilog,,C:/EE214_Projects/EE214_Proj7/EE214_Proj7.srcs/sim_1/new/EE214_Proj7Req2_TB.v,,EE214_Proj7Req1,,,,,,,,
+C:/EE214_Projects/EE214_Proj7/EE214_Proj7.srcs/sources_1/new/EE214_Proj7Req3.v,1604269607,verilog,,C:/EE214_Projects/EE214_Proj7/EE214_Proj7.srcs/sim_1/new/EE214_Proj7Req3_TB.v,,EE214_Proj7Req3,,,,,,,,
+C:/EE214_Projects/EE214_Proj7/EE214_Proj7.srcs/sources_1/new/EE214_Proj7Req4.v,1604200677,verilog,,C:/EE214_Projects/EE214_Proj7/EE214_Proj7.srcs/sources_1/new/mux_2_1.v,,EE214_Proj7Req4,,,,,,,,
+C:/EE214_Projects/EE214_Proj7/EE214_Proj7.srcs/sources_1/new/EE214_Proj7Req5.v,1604207512,verilog,,C:/EE214_Projects/EE214_Proj7/EE214_Proj7.srcs/sources_1/new/clockDivider.v,,EE214_Proj7Req5,,,,,,,,
+C:/EE214_Projects/EE214_Proj7/EE214_Proj7.srcs/sources_1/new/clockDivider.v,1604205203,verilog,,C:/EE214_Projects/EE214_Proj7/EE214_Proj7.srcs/sources_1/new/mux_2_1.v,,clockDivider,,,,,,,,
+C:/EE214_Projects/EE214_Proj7/EE214_Proj7.srcs/sources_1/new/mux_2_1.v,1604199590,verilog,,C:/EE214_Projects/EE214_Proj7/EE214_Proj7.srcs/sources_1/new/shiftReg_8bit_PISO.v,,mux_2_1,,,,,,,,
+C:/EE214_Projects/EE214_Proj7/EE214_Proj7.srcs/sources_1/new/shiftReg_8bit_PISO.v,1604207699,verilog,,C:/EE214_Projects/EE214_Proj7/EE214_Proj7.srcs/sim_1/new/EE214_Proj7Req5_TB.v,,shiftReg_8bit_PISO,,,,,,,,

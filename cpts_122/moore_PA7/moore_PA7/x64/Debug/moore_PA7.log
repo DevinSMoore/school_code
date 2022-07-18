@@ -1,0 +1,7 @@
+﻿  Data.cpp
+  main.cpp
+  menu.cpp
+  Stack.cpp
+C:\Users\rache\OneDrive - Washington State University (email.wsu.edu)\Spring 2021\CptS122_Data StructuresC_C++\Code\Programming Assignments\moore_PA7\moore_PA7\Stack.cpp(165,21): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  moore_PA7.vcxproj -> C:\Users\rache\OneDrive - Washington State University (email.wsu.edu)\Spring 2021\CptS122_Data StructuresC_C++\Code\Programming Assignments\moore_PA7\x64\Debug\moore_PA7.exe

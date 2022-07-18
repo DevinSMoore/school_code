@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1.1 (64-bit)
+# SW Build 2960000 on Wed Aug  5 22:57:20 MDT 2020
+# IP Build 2956692 on Thu Aug  6 01:41:30 MDT 2020
+# Start of session at: Fri Nov  6 21:01:20 2020
+# Process ID: 6008
+# Current directory: C:/EE214_Projects/EE214_Proj8/EE214_Proj8.runs/impl_1
+# Command line: vivado.exe -log EE214_Proj8Chal1.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source EE214_Proj8Chal1.tcl -notrace
+# Log file: C:/EE214_Projects/EE214_Proj8/EE214_Proj8.runs/impl_1/EE214_Proj8Chal1.vdi
+# Journal file: C:/EE214_Projects/EE214_Proj8/EE214_Proj8.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source EE214_Proj8Chal1.tcl -notrace

@@ -1,0 +1,7 @@
+/*blackboard_bist*/
+the_ROM_image:
+{
+  [bootloader]<blackboard_bist/boot/fsbl.elf>
+   <bitstream> 
+  <elf,ps7_cortexa9_0>
+}

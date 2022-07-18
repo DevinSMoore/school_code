@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1.1 (64-bit)
+# SW Build 2960000 on Wed Aug  5 22:57:20 MDT 2020
+# IP Build 2956692 on Thu Aug  6 01:41:30 MDT 2020
+# Start of session at: Sat Oct 24 00:38:08 2020
+# Process ID: 42308
+# Current directory: C:/EE214_Projects/EE214_Proj6Req1/EE214_Proj6Req1.runs/synth_1
+# Command line: vivado.exe -log EE214_Proj6Chal1.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source EE214_Proj6Chal1.tcl
+# Log file: C:/EE214_Projects/EE214_Proj6Req1/EE214_Proj6Req1.runs/synth_1/EE214_Proj6Chal1.vds
+# Journal file: C:/EE214_Projects/EE214_Proj6Req1/EE214_Proj6Req1.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source EE214_Proj6Chal1.tcl -notrace

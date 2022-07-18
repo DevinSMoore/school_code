@@ -1,0 +1,22 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/EE214_Projects/EE214_Proj4/EE214_Proj4.srcs/sources_1/new/EE214_Proj4Req4.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module EE214_Proj4Req4
+WARNING: [VRFC 10-2096] empty statement in sequential block [C:/EE214_Projects/EE214_Proj4/EE214_Proj4.srcs/sources_1/new/EE214_Proj4Req4.v:27]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/EE214_Projects/EE214_Proj4/EE214_Proj4.srcs/sources_1/new/EE214_Proj4Req3.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module EE214_Proj4Req3
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/EE214_Projects/EE214_Proj4/EE214_Proj4.srcs/sources_1/new/EE214_Proj4Req2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module EE214_Proj4Req2
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/EE214_Projects/EE214_Proj4/EE214_Proj4.srcs/sources_1/new/EE214_Proj4Chal1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module EE214_Proj4Chal1
+WARNING: [VRFC 10-3676] redeclaration of ansi port 'led' is not allowed [C:/EE214_Projects/EE214_Proj4/EE214_Proj4.srcs/sources_1/new/EE214_Proj4Chal1.v:25]
+WARNING: [VRFC 10-2096] empty statement in sequential block [C:/EE214_Projects/EE214_Proj4/EE214_Proj4.srcs/sources_1/new/EE214_Proj4Chal1.v:28]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/EE214_Projects/EE214_Proj4/EE214_Proj4.srcs/sources_1/new/EE214_Proj4Req1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module EE214_Proj4Req1
+WARNING: [VRFC 10-3676] redeclaration of ansi port 'led' is not allowed [C:/EE214_Projects/EE214_Proj4/EE214_Proj4.srcs/sources_1/new/EE214_Proj4Req1.v:50]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/EE214_Projects/EE214_Proj4/EE214_Proj4.srcs/sim_1/new/EE214_Proj4Chal1_test_fixture.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module EE214_Proj4Chal1_test_fixture
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/EE214_Projects/EE214_Proj4/EE214_Proj4.srcs/sim_1/new/EE214_Proj4Req2_test_fixture.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module EE214_Proj4Req2_test_fixture
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/EE214_Projects/EE214_Proj4/EE214_Proj4.srcs/sim_1/new/EE214_Proj4Req3_test_fixture.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module EE214_Proj4Req3_test_fixture
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/EE214_Projects/EE214_Proj4/EE214_Proj4.srcs/sim_1/new/EE214_Proj4Req4_test_fixture.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module EE214_Proj4Req4_test_fixture

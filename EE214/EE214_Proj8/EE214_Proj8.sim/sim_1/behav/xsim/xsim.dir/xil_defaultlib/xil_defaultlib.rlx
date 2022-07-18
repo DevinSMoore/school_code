@@ -1,0 +1,25 @@
+0.7
+2020.1.1
+Aug  5 2020
+23:19:43
+C:/EE214_Projects/EE214_Proj8/EE214_Proj8.sim/sim_1/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,
+C:/EE214_Projects/EE214_Proj8/EE214_Proj8.srcs/sim_1/new/EE214_Proj8Req1_TB.v,1604558430,verilog,,,,EE214_Proj8Req1_TB,,,,,,,,
+C:/EE214_Projects/EE214_Proj8/EE214_Proj8.srcs/sim_1/new/EE214_Proj8Req5_TB.v,1604624389,verilog,,,,EE214_Proj8Req5_TB,,,,,,,,
+C:/EE214_Projects/EE214_Proj8/EE214_Proj8.srcs/sim_1/new/asynch_binaryCounter_TB.v,1604534954,verilog,,,,asynch_binaryCounter_TB,,,,,,,,
+C:/EE214_Projects/EE214_Proj8/EE214_Proj8.srcs/sim_1/new/decimalCounter_TB.v,1604536866,verilog,,,,decimalCounter_TB,,,,,,,,
+C:/EE214_Projects/EE214_Proj8/EE214_Proj8.srcs/sim_1/new/ringCounter_TB.v,1604537577,verilog,,,,ringCounter_TB,,,,,,,,
+C:/EE214_Projects/EE214_Proj8/EE214_Proj8.srcs/sim_1/new/synch_binaryCounter_TB.v,1604533996,verilog,,,,synch_binaryCounter_TB,,,,,,,,
+C:/EE214_Projects/EE214_Proj8/EE214_Proj8.srcs/sources_1/new/BCDcounter.v,1604627333,verilog,,C:/EE214_Projects/EE214_Proj8/EE214_Proj8.srcs/sources_1/new/EE214_Proj8Req5.v,,BCDcounter,,,,,,,,
+C:/EE214_Projects/EE214_Proj8/EE214_Proj8.srcs/sources_1/new/EE214_Proj8Req1.v,1604559871,verilog,,C:/EE214_Projects/EE214_Proj8/EE214_Proj8.srcs/sim_1/new/EE214_Proj8Req1_TB.v,,EE214_Proj8Req1,,,,,,,,
+C:/EE214_Projects/EE214_Proj8/EE214_Proj8.srcs/sources_1/new/EE214_Proj8Req5.v,1604627152,verilog,,C:/EE214_Projects/EE214_Proj8/EE214_Proj8.srcs/sources_1/new/SSD_Decoder1.v,,EE214_Proj8Req5,,,,,,,,
+C:/EE214_Projects/EE214_Proj8/EE214_Proj8.srcs/sources_1/new/SSD_Decoder1.v,1604617789,verilog,,C:/EE214_Projects/EE214_Proj8/EE214_Proj8.srcs/sources_1/new/clkDiv_1kHz_to_1Hz.v,,SSD_Decoder1,,,,,,,,
+C:/EE214_Projects/EE214_Proj8/EE214_Proj8.srcs/sources_1/new/asynch_binaryCounter.v,1604534785,verilog,,C:/EE214_Projects/EE214_Proj8/EE214_Proj8.srcs/sim_1/new/asynch_binaryCounter_TB.v,,asynch_binaryCounter,,,,,,,,
+C:/EE214_Projects/EE214_Proj8/EE214_Proj8.srcs/sources_1/new/clkDiv_1kHz_to_1Hz.v,1604613955,verilog,,C:/EE214_Projects/EE214_Proj8/EE214_Proj8.srcs/sources_1/new/clkDivider_1kHz.v,,clkDiv_1kHz_to_1Hz,,,,,,,,
+C:/EE214_Projects/EE214_Proj8/EE214_Proj8.srcs/sources_1/new/clkDivider_1kHz.v,1604628174,verilog,,C:/EE214_Projects/EE214_Proj8/EE214_Proj8.srcs/sources_1/new/counter_2bit.v,,clkDivider_1kHz,,,,,,,,
+C:/EE214_Projects/EE214_Proj8/EE214_Proj8.srcs/sources_1/new/counter_2bit.v,1604620724,verilog,,C:/EE214_Projects/EE214_Proj8/EE214_Proj8.srcs/sources_1/new/decoder_2_4.v,,counter_2bit,,,,,,,,
+C:/EE214_Projects/EE214_Proj8/EE214_Proj8.srcs/sources_1/new/decimalCounter.v,1604536670,verilog,,C:/EE214_Projects/EE214_Proj8/EE214_Proj8.srcs/sim_1/new/decimalCounter_TB.v,,decimalCounter,,,,,,,,
+C:/EE214_Projects/EE214_Proj8/EE214_Proj8.srcs/sources_1/new/decoder_2_4.v,1604625373,verilog,,C:/EE214_Projects/EE214_Proj8/EE214_Proj8.srcs/sources_1/new/displayController.v,,decoder_2_4,,,,,,,,
+C:/EE214_Projects/EE214_Proj8/EE214_Proj8.srcs/sources_1/new/displayController.v,1604625549,verilog,,C:/EE214_Projects/EE214_Proj8/EE214_Proj8.srcs/sources_1/new/mux_4bit_4_1.v,,displayController,,,,,,,,
+C:/EE214_Projects/EE214_Proj8/EE214_Proj8.srcs/sources_1/new/mux_4bit_4_1.v,1604625433,verilog,,C:/EE214_Projects/EE214_Proj8/EE214_Proj8.srcs/sim_1/new/EE214_Proj8Req5_TB.v,,mux_4bit_4_1,,,,,,,,
+C:/EE214_Projects/EE214_Proj8/EE214_Proj8.srcs/sources_1/new/ringCounter.v,1604537163,verilog,,C:/EE214_Projects/EE214_Proj8/EE214_Proj8.srcs/sim_1/new/ringCounter_TB.v,,ringCounter,,,,,,,,
+C:/EE214_Projects/EE214_Proj8/EE214_Proj8.srcs/sources_1/new/synch_binaryCounter.v,1604533602,verilog,,C:/EE214_Projects/EE214_Proj8/EE214_Proj8.srcs/sim_1/new/synch_binaryCounter_TB.v,,synch_binaryCounter,,,,,,,,

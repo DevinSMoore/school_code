@@ -1,0 +1,209 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+\paragraph_spacing double
+Drug Companies and Patents: The Games they Play
+\end_layout
+
+\begin_layout Author
+\paragraph_spacing double
+Devin Moore
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing double
+Professor Navelski EconS101
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing double
+Writing Assignment 3
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing double
+The ability for people to have access to cheap drugs is crucial to the maintenan
+ce of their health.
+ That is why it is so important for the law, and society to both allow their
+ innovation but also ensure that their necessity is not exploited.
+ Pay-for-delay is an anti competitive practice that is anti competitive,
+ and directly harmful to customers.
+ I believe it was right for the supreme court to uphold the regulation,
+ and I think that the practice should continue to be banned.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing double
+These situations ultimately arise because of how innovation in this country
+ is incentive.
+ Patents are given out by the government to people that come up with a new
+ invention, drug, or unique idea.
+ They allow the patentee to have exclusive rights to sell, or use the concept
+ for a period of time.
+ This temporary monopoly allows companies to recoup their R&D costs, as
+ well as earn additional profit on top of that.
+ In the long run this practice is hugely beneficial to society, as ultimately
+ once the drug is able to be mimicked, generic drug companies give more
+ people access to it.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing double
+Once the patent runs out -a period of twenty years for pharmaceutical drugs-
+ other manufacturers have the ability to sell bio equivalent drugs.
+ These new firms introducing generic brands to the market mean that prices
+ for the drug drop considerably.
+ Customers that need it now don’t have to worry as much about the steep
+ price of brand-name drugs, and the savings is significant for them.
+ The patent holder, though, will see their profits drop considerably as
+ they no longer have the market power to affect the prices.
+ Companies will attempt to combat this by coming up with differentiated
+ products, but ultimately they will see that drop.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing double
+One practice that allows a patent holder to maintain their long-term high
+ profits is for them to engage in what is called pay-for-delay.
+ This is when the patent company will sue a generic company for patent infringem
+ent, then do what is called a “reverse payment” settlement where the firm
+ bringing the suit pays money to the person being sued.
+ They will make deals where the generic company will delay putting their
+ product on the market which ensures that the owner of the patent can maintain
+ their control of the prices, and ensure their long term profit (artificially
+ extending the patent protections).
+ This is a win-win for the firms, but the customer loses out sharply.
+ The monopolist can now continue to restrict quantity to the market guaranteeing
+ they are selling to the people with the highest willingness to pay at that
+ price they are willing to pay basically price gouging them.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing double
+Pay-for-delay should not be a practice that is allowed.
+ It is anti competitive because it creates an artificial barrier to entry
+ for new firms, and allows the monopolist to maintain their price-gouging.
+ It also restricts access that poor people have to potentially life saving
+ drugs.
+ There is also a social surplus impact, as the monopolistic practice creates
+ a dead weight loss, meaning the market is not as efficient as it otherwise
+ would be if there were more perfect competition.
+ 
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-1"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Pay-for-Delay: How Drug Company Pay-Offs Cost Consumers Billions
+\begin_inset Quotes erd
+\end_inset
+
+.
+ staff study, January 2010.
+ (https://www.ftc.gov/reports/pay-delay-how-drug-company-pay-offs-cost-consumers-b
+illions-federal-trade-commission-staff)
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-2"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Sypreme Court Lets Regulators Sue Over Generic Drug Deals
+\begin_inset Quotes erd
+\end_inset
+
+, New York Times, Edward Wyatt, June 17, 2013.
+\end_layout
+
+\end_body
+\end_document

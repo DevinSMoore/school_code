@@ -1,0 +1,10 @@
+2021-07-15T20:02:36.977295100255-20:02:36 **** Build of configuration Debug for project EE234_FinalProject_system ****
+000-make all 
+000-Generating bif file for the system project
+000-generate_system_bif.bat 59960 D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm standalone_domain D:/Workspace/EE234_FinalProject_system/Debug/system.bif
+000-sdcard_gen --xpfm D:/Workspace/blackboard_bist/export/blackboard_bist/blackboard_bist.xpfm --sys_config blackboard_bist --bif D:/Workspace/EE234_FinalProject_system/Debug/system.bif --bitstream D:/Workspace/EE234_FinalProject/_ide/bitstream/bist.bit --elf D:/Workspace/EE234_FinalProject/Debug/EE234_FinalProject.elf,ps7_cortexa9_0
+000-creating BOOT.BIN using D:/Workspace/EE234_FinalProject/_ide/bitstream/bist.bit
+000-Running D:/Xilinx/Vitis/2020.1/bin/bootgen  -image D:/Workspace/EE234_FinalProject_system/Debug/sd_card_temp/boot.bif -w -o i BOOT.BIN
+00255-
+20:02:41 Build Finished (took 4s.911ms)
+

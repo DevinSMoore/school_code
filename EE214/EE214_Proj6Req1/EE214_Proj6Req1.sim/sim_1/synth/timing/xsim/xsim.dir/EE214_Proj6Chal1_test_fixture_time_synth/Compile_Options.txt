@@ -1,0 +1,1 @@
+-wto "001a62b9960e417192e742d929c4045e" --incr --debug "typical" --relax --mt "2" --maxdelay -L "xil_defaultlib" -L "simprims_ver" -L "secureip" --snapshot "EE214_Proj6Chal1_test_fixture_time_synth" -transport_int_delays -pulse_r "0" -pulse_int_r "0" -pulse_e "0" -pulse_int_e "0" "xil_defaultlib.EE214_Proj6Chal1_test_fixture" "xil_defaultlib.glbl" -log "elaborate.log" 

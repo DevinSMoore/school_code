@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\rache\OneDrive - Washington State University (email.wsu.edu)\Fall 2020\CptS121\Labs\moore_Lab10\moore_Lab10\main.c(62,28): warning C4013: 'toupper' undefined; assuming extern returning int
+  moore_Lab10.vcxproj -> C:\Users\rache\OneDrive - Washington State University (email.wsu.edu)\Fall 2020\CptS121\Labs\moore_Lab10\Debug\moore_Lab10.exe

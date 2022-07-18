@@ -1,0 +1,7 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"EE214_Proj6Chal1_test_fixture_time_synth.v" \
+"../../../../../EE214_Proj6Req1.srcs/sim_1/new/EE214_Proj6Chal1_test_fixture.v" \
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,18 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../EE214_Proj4.srcs/sources_1/new/EE214_Proj4Req4.v" \
+"../../../../EE214_Proj4.srcs/sources_1/new/EE214_Proj4Req3.v" \
+"../../../../EE214_Proj4.srcs/sources_1/new/EE214_Proj4Req2.v" \
+"../../../../EE214_Proj4.srcs/sources_1/new/EE214_Proj4Req1.v" \
+"../../../../EE214_Proj4.srcs/sources_1/new/EE214_Proj4Chal1.v" \
+"../../../../EE214_Proj4.srcs/sim_1/new/EE214_Proj4Req1_test_fixture.v" \
+"../../../../EE214_Proj4.srcs/sim_1/new/EE214_Proj4Chal1_test_fixture.v" \
+"../../../../EE214_Proj4.srcs/sim_1/new/EE214_Proj4Req2_test_fixture.v" \
+"../../../../EE214_Proj4.srcs/sim_1/new/EE214_Proj4Req3_test_fixture.v" \
+"../../../../EE214_Proj4.srcs/sim_1/new/EE214_Proj4Req4_test_fixture.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

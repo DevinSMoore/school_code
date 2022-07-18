@@ -1,0 +1,10 @@
+Name: Mort,Kris  |  Total absences: 1  |  Most recent absence: 04/11/21
+Name: Willis,Bruce  |  Total absences: 1  |  Most recent absence: 04/11/21
+Name: Smith,Jane  |  Total absences: 0  |  Most recent absence: NONE
+Name: Sam,Theo  |  Total absences: 0  |  Most recent absence: NONE
+Name: Payton,Ella  |  Total absences: 0  |  Most recent absence: NONE
+Name: James,Hannah  |  Total absences: 1  |  Most recent absence: 04/11/21
+Name: Art,Bruce  |  Total absences: 1  |  Most recent absence: 04/11/21
+Name: Leinart,Timothy  |  Total absences: 0  |  Most recent absence: NONE
+Name: Beck,Sara  |  Total absences: 0  |  Most recent absence: NONE
+Name: Smith,John  |  Total absences: 0  |  Most recent absence: NONE
